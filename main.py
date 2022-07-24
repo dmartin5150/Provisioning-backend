@@ -127,14 +127,8 @@ def get_filename(folder,filetype):
 def get_file_creation_date(folder,filename):
     src = app.config[folder]
     path = os.path.join(src, filename)
-    creation_time =  os.path.getctime(path)
-    modification_time = os.path.getctime(path)
-    creation_date = (dt(1970, 1, 1) + timedelta(milliseconds=creation_time*1000)).strftime('%Y-%m-%d %H:%M:%S')
-    # modification_date = (dt(1970,1,1) + timedelta(milliseconds=modification_time*1000)).strftime('%Y-%m-%d %H:%M:%S')
-    # file_date_data = {
-    #     'creation_date': creation_date,
-    #     'modification_date': modification_date
-    # }
+    creation_time =  int(os.path.getctime(path))
+    creation_date = dt.fromtimestamp(creation_time).strftime('%Y-%m-%d %H:%M:%S')
     return creation_date
 
 def get_file_data(folder, filetype):
@@ -258,8 +252,8 @@ def create_blank_dataframe():
 def create_new_spreadsheet(user_dataframe):
     current_dataframe = create_blank_dataframe()
     provisioning_dataframes = create_new_provisioning_dataframes(user_dataframe,current_dataframe)
-    write_new_provisioning_files(provisioning_dataframes)
-    return create_response('Created new provisoning spreadsheet',200)
+    response = write_new_provisioning_files(provisioning_dataframes)
+    return response
 
 
 # current_dataframe['NTAccountName] = new_dataframe['Username']
@@ -298,12 +292,16 @@ def write_provisioning_excel(provisioning_dataframes, filename='CSProvisioning.x
     path = os.path.join(UPDATED_FILES_FOLDER, filename)
     writer = pd.ExcelWriter(path , engine='xlsxwriter')
     for df_index, worksheet in zip(provisioning_dataframes, PROVISIONING_WORKSHEETS):
-        write_provisioning_excel_worksheet(writer,path, provisioning_dataframes[df_index], worksheet)
+            write_provisioning_excel_worksheet(writer,path, provisioning_dataframes[df_index], worksheet)
     writer.save()
 
 def write_new_provisioning_files(provisioning_dataframes):
-    write_provisioning_csv(provisioning_dataframes['all'])
-    write_provisioning_excel(provisioning_dataframes)
+    try:
+        write_provisioning_csv(provisioning_dataframes['all'])
+        write_provisioning_excel(provisioning_dataframes)
+        return create_response('New provisoning spreadsheet created', 200)
+    except:
+        return create_response('Unable to write files', 500)
 
 def update_blank_data_from_current_spreadsheet(new_dataframe, current_dataframe):
     return new_dataframe.update(current_dataframe,overwrite=False)
@@ -314,8 +312,8 @@ def update_exisiting_spreadsheet(new_user_dataframe):
         provisioning_dataframes = create_new_provisioning_dataframes(new_user_dataframe,current_user_dataframe)
         update_blank_data_from_current_spreadsheet(provisioning_dataframes['all'], current_user_dataframe)
         provisioning_dataframes['all'].to_csv(os.path.join(UPDATED_FILES_FOLDER, 'CSProvisioning.csv'))
-        write_new_provisioning_files(provisioning_dataframes)
-        return create_response('Spreadsheet updated!', 200)
+        response = write_new_provisioning_files(provisioning_dataframes)
+        return response
     else:
         return create_response('Unable to access current spreadsheet!', 404)
 
