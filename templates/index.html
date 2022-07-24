@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+    <form enctype = "multipart/form-data" method = "post" action='{{url_for("upload_form")}}'>
+        <br> File Uploading <input type = "file" name="fname"  id='inputdata'/>
+        <!-- <p><input type = "submit"  value = "Upload Now" /></p> -->
+        <p><button type="submit" value="Upload Now">Upload Now</button></p>
+    </form>
+{% endblock %}
+</html>

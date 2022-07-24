@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+    <form method = "post">
+        <input type="hidden" value= {{fileName}} name="fname" />
+        <p><input type = "submit" name="submit_button" value = "Update Google Sheet" /></p>
+        <p><input type = "submit" name="submit_button"  value = "Cancel" /></p>
+    </form>
+{% endblock %}
+</html>
