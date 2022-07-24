@@ -128,7 +128,7 @@ def get_file_creation_date(folder,filename):
     src = app.config[folder]
     path = os.path.join(src, filename)
     creation_time =  int(os.path.getctime(path))
-    creation_date = dt.fromtimestamp(creation_time).strftime('%Y-%m-%d %H:%M:%S')
+    creation_date = dt.fromtimestamp(creation_time).strftime('%m-%d-%Y %H:%M:%S')
     return creation_date
 
 def get_file_data(folder, filetype):
