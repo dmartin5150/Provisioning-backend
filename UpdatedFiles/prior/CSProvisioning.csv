@@ -182,17 +182,17 @@
 181,181,winona.duncan@ascension.org,,Employee,Employee,WDUNCAN,IS,,1184868481,Saint Thomas Health Svcs-TN,10168158
 182,182,amanda.dean@ascension.org,,Employee,Employee,ANAPI001,NUR,,1184868481,St. Vincent's HealthCare-FL,10169131
 183,183,mark.pilkinton@ascension.org,,Physician,Physician,MPILK002,PHY,,1184868481,Saint Thomas Health Svcs-TN,10169486
-184,184,angela.eckard@ascension.org,,Employee,Employee,ASCHUL,BUS,,,Ascension Technologies,10172630
-185,185,dennis.degraaf@ascension.org,,Employee,Employee,DDEGRAAF,IS,,,Ascension Technologies,10173715
-186,186,wes.murks@ascension.org,,Employee,Employee,WMURKS,CLS,,,Ascension Technologies,10174096
-187,187,lavonne.pappas@ascension.org,,Employee,Employee,LPAPP001,CLS,,,Ascension Technologies,10174127
-188,188,drew.doster@ascension.org,,Employee,Employee,DDOSTER,IS,,,Ascension Technologies,10174195
-189,189,okraft@ascension.org,,Employee,Employee,OKRAFT,IS,,,Ascension Technologies,10174504
-190,190,derek.labelle@ascension.org,,Employee,Employee,DLABE001,IS,,,Ascension Technologies,10174535
-191,191,douglas.gruen@ascension.org,,Employee,Employee,DGRUEN,IS,,,Ascension Technologies,10174585
-192,192,karen.avery@ascension.org,,Employee,Employee,KAVERY,IS,,,Ascension Technologies,10174635
-193,193,william.bailey@ascension.org,,Employee,Employee,BAILEW01,IS,,,Ascension Technologies,10174919
-194,194,megan.davis@ascension.org,,Employee,Employee,MDAVI105,IS,,,Ascension Technologies,10175230
+184,184,angela.eckard@ascension.org,,Employee,Employee,ASCHUL,BUS,,1427344720,Ascension Technologies,10172630
+185,185,dennis.degraaf@ascension.org,,Employee,Employee,DDEGRAAF,IS,,1427344720,Ascension Technologies,10173715
+186,186,wes.murks@ascension.org,,Employee,Employee,WMURKS,CLS,,1427344720,Ascension Technologies,10174096
+187,187,lavonne.pappas@ascension.org,,Employee,Employee,LPAPP001,CLS,,1427344720,Ascension Technologies,10174127
+188,188,drew.doster@ascension.org,,Employee,Employee,DDOSTER,IS,,1427344720,Ascension Technologies,10174195
+189,189,okraft@ascension.org,,Employee,Employee,OKRAFT,IS,,1427344720,Ascension Technologies,10174504
+190,190,derek.labelle@ascension.org,,Employee,Employee,DLABE001,IS,,1427344720,Ascension Technologies,10174535
+191,191,douglas.gruen@ascension.org,,Employee,Employee,DGRUEN,IS,,1427344720,Ascension Technologies,10174585
+192,192,karen.avery@ascension.org,,Employee,Employee,KAVERY,IS,,1427344720,Ascension Technologies,10174635
+193,193,william.bailey@ascension.org,,Employee,Employee,BAILEW01,IS,,1427344720,Ascension Technologies,10174919
+194,194,megan.davis@ascension.org,,Employee,Employee,MDAVI105,IS,,1427344720,Ascension Technologies,10175230
 195,195,sara.standridge@ascension.org,,Employee,Employee,SASTANDR,IS,,1427344720,Ascension Technologies,10175239
 196,196,vicki.kenworthy@ascension.org,,Employee,Employee,VAKENWO1,IS,,1427344720,Ascension Technologies,10175416
 197,197,bob.wilson@ascension.org,,Employee,Employee,BWILS001,IS,,1427344720,Ascension Technologies,10175470
@@ -463,19 +463,19 @@
 462,462,abdul_rasheed.asharaf@ascension-external.org,,Physician,Physician,aasha001,PHY,,1619401239,Saint Thomas Health Svcs-TN,aasharaf
 463,463,aaron.eskind@ascension.org,,Physician,Physician,AESKIND,PHY,,1619401239,Saint Thomas Health Svcs-TN,aeskind
 464,464,amye.mitchell@ascension.org,,Employee,Employee,AMITC104,NUR,,1164426979,Saint Thomas Health Svcs-TN,amitc104
-465,465,anugya.poudel-chataut@ascension-external.org,,Physician,Physician,apoudelc,,,1164426979,Saint Thomas Health Svcs-TN,apoudelc
-466,466,amber.sarwar@ascension-external.org,,Physician,Physician,asarwar,,,1164426979,Saint Thomas Health Svcs-TN,asarwar
-467,467,cerner.autotest@ascension-external.org,,Physician,Physician,autotest,,,1164426979,Saint Thomas Health Svcs-TN,autotest
-468,468,alexander.zimilevich@ascension-external.org,,Physician,Physician,azimilev,,,1164426979,Saint Thomas Health Svcs-TN,azimilev
-469,469,chace.carpenter@ascension-external.org,,Physician,Physician,ccarp003,,,1164426979,Saint Thomas Health Svcs-TN,bmitc008
-470,470,chace.carpenter@ascension-external.org,,Physician,Physician,ccarp003,,,1164426979,Saint Thomas Health Svcs-TN,ccarp003
-471,471,catherine.kerns@ascension-external.org,,,,ckerns,,,,,ckerns
-472,472,carneisha.myles@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,cmyle001,,,,Saint Thomas Health Svcs-TN,cmyle001
-473,473,cynthia.rizk@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,crizk002,,,,Saint Thomas Health Svcs-TN,crizk002
-474,474,cstud001@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,cstud001,,,,Saint Thomas Health Svcs-TN,cstud001
-475,475,dawn.albury@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dalbu002,,,,Saint Thomas Health Svcs-TN,dalbu002
-476,476,doris.koduah@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dkoduah,,,,Saint Thomas Health Svcs-TN,dkoduah
-477,477,dkoeh002@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dkoeh002,,,,Saint Thomas Health Svcs-TN,dkoeh002
+465,465,anugya.poudel-chataut@ascension-external.org,,Physician,Physician,apoudelc,PHY,,1164426979,Saint Thomas Health Svcs-TN,apoudelc
+466,466,amber.sarwar@ascension-external.org,,Physician,Physician,asarwar,PHY,,1164426979,Saint Thomas Health Svcs-TN,asarwar
+467,467,cerner.autotest@ascension-external.org,,Physician,Physician,autotest,PHY,,1164426979,Saint Thomas Health Svcs-TN,autotest
+468,468,alexander.zimilevich@ascension-external.org,,Physician,Physician,azimilev,PHY,,1164426979,Saint Thomas Health Svcs-TN,azimilev
+469,469,chace.carpenter@ascension-external.org,,Physician,Physician,ccarp003,PHY,,1164426979,Saint Thomas Health Svcs-TN,bmitc008
+470,470,chace.carpenter@ascension-external.org,,Physician,Physician,ccarp003,PHY,,1164426979,Saint Thomas Health Svcs-TN,ccarp003
+471,471,catherine.kerns@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,ckerns,PHY,,1093912487,Saint Thomas Health Svcs-TN,ckerns
+472,472,carneisha.myles@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,cmyle001,PHY,,1093912487,Saint Thomas Health Svcs-TN,cmyle001
+473,473,cynthia.rizk@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,crizk002,PHY,,1093912487,Saint Thomas Health Svcs-TN,crizk002
+474,474,cstud001@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,cstud001,PHY,,1093912487,Saint Thomas Health Svcs-TN,cstud001
+475,475,dawn.albury@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dalbu002,PHY,,1093912487,Saint Thomas Health Svcs-TN,dalbu002
+476,476,doris.koduah@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dkoduah,PHY,,1093912487,Saint Thomas Health Svcs-TN,dkoduah
+477,477,dkoeh002@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dkoeh002,PHY,,1093912487,Saint Thomas Health Svcs-TN,dkoeh002
 478,478,erik.barquist@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,EBarquis,PHY,,1093912487,Saint Thomas Health Svcs-TN,EBarquis
 479,479,eunice.binyanya@ascension-external.org,,Physician,Physician,ebinyany,PHY,,1093912487,Saint Thomas Health Svcs-TN,ebinyany
 480,480,eyazigi@jaxhealth.com,,Physician,Physician,eyazigi,PHY,,1093912487,Saint Thomas Health Svcs-TN,eyazigi
@@ -488,11 +488,11 @@
 487,487,khristine.rivera@ascension-external.org,,Employee,Employee,krive013,NUR,,1336411313,Saint Thomas Health Svcs-TN,krive013
 488,488,leor.azoulay@ascension-external.org,,Employee,Employee,lazoulax,NUR,,1336411313,Saint Thomas Health Svcs-TN,lazoulax
 489,489,luis.dulin@ascension.org,,Employee,Employee,LDULI003,NUR,,1336411313,Saint Thomas Health Svcs-TN,lduli003
-490,490,murshid.al-awady@ascension-external.org,,Physician,Physician,malawady,,,1649333931,Saint Thomas Health Svcs-TN,malawady
-491,491,michael.byrd@ascension-external.org,,Physician,Physician,mgovani,,,1649333931,Saint Thomas Health Svcs-TN,mbyrd047
-492,492,maulik.govani@ascension-external.org,,Physician,Physician,mgovani,,,1649333931,Saint Thomas Health Svcs-TN,mgovani
-493,493,marius.laurinaitis@ascension-external.org,,Physician,Physician,mlaurina,,,1649333931,Saint Thomas Health Svcs-TN,mlaurina
-494,494,michael.lomis@ascension.org,,Physician,Physician,mlomis,,,1649333931,Saint Thomas Health Svcs-TN,mlomis
+490,490,murshid.al-awady@ascension-external.org,,Physician,Physician,malawady,NUR,,1649333931,Saint Thomas Health Svcs-TN,malawady
+491,491,michael.byrd@ascension-external.org,,Physician,Physician,mgovani,NUR,,1649333931,Saint Thomas Health Svcs-TN,mbyrd047
+492,492,maulik.govani@ascension-external.org,,Physician,Physician,mgovani,NUR,,1649333931,Saint Thomas Health Svcs-TN,mgovani
+493,493,marius.laurinaitis@ascension-external.org,,Physician,Physician,mlaurina,NUR,,1649333931,Saint Thomas Health Svcs-TN,mlaurina
+494,494,michael.lomis@ascension.org,,Physician,Physician,mlomis,NUR,,1649333931,Saint Thomas Health Svcs-TN,mlomis
 495,495,min.zimilevich@ascension-external.org,,Employee,Employee,mzimi003,NUR,,1942877618,Saint Thomas Health Svcs-TN,mzimilev
 496,496,nader.daoud@ascension-external.org,,Employee,Employee,ndaou001,NUR,,1942877618,Saint Thomas Health Svcs-TN,ndaou001
 497,497,neonila.zhukivskyy@ascension-external.org,,Employee,Employee,nzhukivs,NUR,,1942877618,Saint Thomas Health Svcs-TN,nzhukivs

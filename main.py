@@ -53,19 +53,32 @@ def copy_files(src,dst):
     for f in files:
         if (os.path.isfile(os.path.join(src,f))):
             try:
-                print('moving: {}'.format(f))
+                print('copying: {}'.format(f))
                 shutil.copy(os.path.join(src, f), os.path.join(dst,f))
             except OSError as err:
                 print("OS error: {0}".format(err))
                 return False
     return True
 
+def move_files(src,dst):
+    files = [i for i in os.listdir(src)]
+    print('all files',files)
+    for f in files:
+        if (os.path.isfile(os.path.join(src,f))):
+            (f, ' is file');
+            try:
+                print('moving:',f)
+                shutil.move(os.path.join(src, f), os.path.join(dst,f))
+            except OSError as err:
+                print("OS error: {0}".format(err))
+                return False
+        (f, 'is not file')
+    return True
 
-
-def copy_previous_uploaded_file():
+def move_previous_uploaded_file():
     src = app.config['UPLOAD_FOLDER']
     dst = app.config['PRIOR_UPLOAD_FOLDER']
-    if (copy_files(src,dst)):
+    if (move_files(src,dst)):
         return True
     return False
 
@@ -99,7 +112,7 @@ def save_uploaded_file(file_data):
 @app.route('/upload', methods=['POST'])
 def upload_file():
     file_data= get_uploaded_file_data(request)
-    if copy_previous_uploaded_file():
+    if move_previous_uploaded_file():
         response, status = save_uploaded_file(file_data)
         return response, status
     else:
