@@ -1,513 +1,494 @@
-,Unnamed: 0,Email,employeenumber,symphonyemployeetype,PeopleSoft Type,USERNAME,Cerner Role,Care Studio Role,NPI,Ministry,NTAccountName
-1,1,david.martin6@ascension.org,,Employee,Employee,DMART011,IS,,1326046244,Ascension System Office-MO,10003977
-2,2,sean.parker@ascension.org,,Employee,Employee,SPARK004,NUS,,1225031073,Saint Thomas Health Svcs-TN,10008537
-3,3,thomas.bartlett@ascension.org,,Physician,Physician,TBARTLETT,PHY,,1225031073,Saint Thomas Health Svcs-TN,10009235
-4,4,mark.stankewicz@ascension.org,,Physician,Physician,MSTANKEW,PHY,,1255368767,Saint Thomas Health Svcs-TN,10009292
-5,5,rakesh.kumar@ascension.org,,Physician,Physician,RMKUMAR,PHY,,1235154683,Saint Thomas Health Svcs-TN,10009294
-6,6,mark.koenig@ascension.org,,Physician,Physician,MKOENIG,PHY,,1770521502,Saint Thomas Health Svcs-TN,10009315
-7,7,jolanta.siegien@ascension.org,,Physician,Physician,JSIEGIEN,PHY,,1124066683,Saint Thomas Health Svcs-TN,10009353
-8,8,vishant.shah@ascension.org,,Physician,Physician,VPSHAH,PHY,,1023157195,Saint Thomas Health Svcs-TN,10009411
-9,9,mihaela.tudorica@ascension.org,,Physician,Physician,MTUDORICA,PHY,,1417956830,Saint Thomas Health Svcs-TN,10009451
-10,10,rcohen@ascension.org,,Physician,Physician,RCOHEN,PHY,,1316980352,Saint Thomas Health Svcs-TN,10009527
-11,11,kerry.roselle@ascension.org,,Employee,Employee,KROSELLE,NUR,,1417983214,Saint Thomas Health Svcs-TN,10009557
-12,12,jsnyder@ascension.org,,Physician,Physician,JSNYDER,PHY,,1417983214,Saint Thomas Health Svcs-TN,10009566
-13,13,archana.kochar@ascension.org,,Physician,Physician,AKOCHAR,PHY,,1235172800,Saint Thomas Health Svcs-TN,10009628
-14,14,oscar.mendez@ascension.org,,Physician,Physician,OMEND001,PHY,,1366403230,Saint Thomas Health Svcs-TN,10009808
-15,15,heather.andrews@ascension.org,,Physician,Physician,HANDREWS,PHY,,1811991680,Saint Thomas Health Svcs-TN,10009825
-16,16,andrew.sager@ascension.org,,Physician,Physician,ASAGER,PHY,,1942203120,Saint Thomas Health Svcs-TN,10009846
-17,17,vafa.mansouri@ascension.org,,Physician,Physician,VMANSOURI,PHY,,1659342384,Saint Thomas Health Svcs-TN,10009890
-18,18,naved.mohyuddin@ascension.org,,Physician,Physician,NMOHYUDDIN,PHY,,1417951278,Saint Thomas Health Svcs-TN,10009966
-19,19,bjarki.olafsson@ascension.org,,Physician,Physician,BOLAFSSON,PHY,,1558315168,Saint Thomas Health Svcs-TN,10009998
-20,20,wilson.kemp@ascension.org,,Physician,Physician,WKEMP,PHY,,1861430621,Saint Thomas Health Svcs-TN,10010023
-21,21,edward.rhim@ascension.org,,Physician,Physician,ERHIM,PHY,,1427180868,Saint Thomas Health Svcs-TN,10010174
-22,22,christopher.hoffman@ascension.org,,Physician,Physician,CDHOFFMAN,PHY,,1114966835,Saint Thomas Health Svcs-TN,10010211
-23,23,joseph.boyd@ascension.org,,Physician,Physician,JJBOYD,PHY,,1922045137,Saint Thomas Health Svcs-TN,10010298
-24,24,maaron@ascension.org,,Physician,Physician,MAARON,PHY,,1306891262,Saint Thomas Health Svcs-TN,10010319
-25,25,jdaniel@ascension.org,,Employee,Employee,JDANIEL,PHS,,1053314963,Saint Thomas Health Svcs-TN,10010471
-26,26,kevin.rankin@ascension.org,,Physician,Physician,KRANK001,PHY,,1053314963,Saint Thomas Health Svcs-TN,10010496
-27,27,martin.olejcek@ascension.org,,Physician,Physician,MOLEJCEK,PHY,,1407963903,Saint Thomas Health Svcs-TN,10010533
-28,28,rene.lim@ascension.org,,Physician,Physician,RLIM,PHY,,1831149152,Saint Thomas Health Svcs-TN,10010545
-29,29,sembry1@ascension.org,,Physician,Physician,SEMBRY,PHY,,1558309971,Saint Thomas Health Svcs-TN,10010554
-30,30,andrew.zurick@ascension.org,,Physician,Physician,AZURICK,PHY,,1942429816,Saint Thomas Health Svcs-TN,10010583
-31,31,stephen.fahrig@ascension.org,,Physician,Physician,SFAHRIG,PHY,,1285627398,Saint Thomas Health Svcs-TN,10010650
-32,32,david.sellers@ascension.org,,Physician,Physician,DSELLERS,PHY,,1649293390,Saint Thomas Health Svcs-TN,10010690
-33,33,dabaray@ascension.org,,Physician,Physician,DABARAY,PHY,,1275680134,Saint Thomas Health Svcs-TN,10010735
-34,34,dhence@ascension.org,,Employee,Employee,DHENC004,QRC,,1316985120,Saint Thomas Health Svcs-TN,10011004
-35,35,mark.zenker@ascension.org,,Physician,Physician,MZENKER,PHY,,1316985120,Saint Thomas Health Svcs-TN,10011172
-36,36,daniel.carmody@ascension.org,,Physician,Physician,DCARMODY,PHY,,1740275221,Saint Thomas Health Svcs-TN,10011211
-37,37,debra.hutjens@ascension.org,,Physician,Physician,DHUTJENS,PHY,,1720057649,Saint Thomas Health Svcs-TN,10011545
-38,38,dgraves@ascension.org,,Physician,Physician,DGRAVES,PHY,,1326086653,Saint Thomas Health Svcs-TN,10011698
-39,39,tracey.imotichey@ascension.org,,Employee,Employee,TIMOTICHEY,CLS,,1134117690,Ascension Technologies,10011986
-40,40,sara.washburn@ascension.org,,Employee,Employee,SRAMS013,CLS,,1134117690,Ascension Technologies,10012017
-41,41,penelope.butler@ascension.org,,Employee,Employee,PBUTLER2,NUR,,1134117690,Saint Thomas Health Svcs-TN,10012227
-42,42,natasha.winfrey@ascension.org,,Employee,Employee,NWINFREY,CLS,,1134117690,Ascension Technologies,10012259
-43,43,britney.adkins@ascension.org,,Employee,Employee,BKADKINS,NUR,,1134117690,Saint Thomas Health Svcs-TN,10012283
-44,44,kecia.badem@ascension.org,,Physician,Physician,KBADEM,PHY,,1134117690,Saint Thomas Health Svcs-TN,10012311
-45,45,cassandra.lill@ascension.org,,Employee,Employee,CLLILL,IS,,1538363023,Ascension Technologies,10012508
-46,46,taylor.brownlee@ascension.org,,Physician,Physician,TBROWNLE,PHY,,1538363023,Saint Thomas Health Svcs-TN,10013090
-47,47,bryan.ward@ascension.org,,Employee,Employee,BWARD009,PHY,,1578567210,Saint Thomas Health Svcs-TN,10013114
-48,48,john.cage@ascension.org,,Physician,Physician,JCAGE,PHY,,1003819277,Saint Thomas Health Svcs-TN,10013372
-49,49,pam.singer@ascension.org,,Physician,Physician,PSING022,PHY,,1639151400,Saint Thomas Health Svcs-TN,10013540
-50,50,cindy.t.smith@ascension.org,,Employee,Employee,CSMIT012,NUR,,1952386393,Saint Thomas Health Svcs-TN,10013696
-51,51,vernell.peterson@ascension.org,,Employee,Employee,VPETERSON,CLS,,1952386393,Ascension Technologies,10013743
-52,52,david.jacobs21@ascension.org,,Physician,Physician,DCJACOBS,PHY,,1952386393,Saint Thomas Health Svcs-TN,10013784
-53,53,jennifer.morgenson@ascension.org,,Employee,Employee,JMORGENS,IS,,1659594406,Saint Thomas Health Svcs-TN,10013785
-54,54,jeremy.burns@ascension.org,,Physician,Physician,JBURNS2,PHY,,1659594406,Saint Thomas Health Svcs-TN,10013845
-55,55,ansley.kimberly1@ascension.org,,Employee,Employee,AKIMBERL,ADM,,1134377922,Saint Thomas Health Svcs-TN,10013942
-56,56,stuart.dunn@ascension.org,,Employee,Employee,SDUNN,IS,,1134377922,Ascension Technologies,10014401
-57,57,stephanie.marcus@ascension.org,,Employee,Employee,SCOMAGE,PHS,,1134377922,Saint Thomas Health Svcs-TN,10014430
-58,58,christina.stinson@ascension.org,,Employee,Employee,CWINGO,QRC,,1134377922,Saint Thomas Health Svcs-TN,10014531
-59,59,negar.daniels@ascension.org,,Physician,Physician,NSDANIELS,PHY,,1134377922,Saint Thomas Health Svcs-TN,10014589
-60,60,dana.bannerman@ascension.org,,Physician,Physician,DBANNERMAN,PHY,,1649274515,Saint Thomas Health Svcs-TN,10014640
-61,61,christina.sadlow@ascension.org,,Physician,Physician,CSSADLOW,PHY,,1134178171,Saint Thomas Health Svcs-TN,10015054
-62,62,michael.meadors@ascension.org,,Physician,Physician,MMEADORS,PHY,,1285676247,Saint Thomas Health Svcs-TN,10015171
-63,63,ann.jackson@ascension.org,,Physician,Physician,SJACK031,PHY,,1871685743,Saint Thomas Health Svcs-TN,10015428
-64,64,dennis.puckett@ascension.org,,Physician,Physician,498DCP,PHY,,1750368403,Saint Thomas Health Svcs-TN,10016382
-65,65,douglas.adkisson@ascension.org,,Physician,Physician,DADKISSO,PHY,,1902953896,Saint Thomas Health Svcs-TN,10016497
-66,66,brian.carrico@ascension.org,,Physician,Physician,BCARRICO,PHY,,1306053939,Saint Thomas Health Svcs-TN,10016697
-67,67,sailesh.pakkala@ascension.org,,Physician,Physician,SPAKKALA,PHY,,1972749174,Saint Thomas Health Svcs-TN,10017199
-68,68,joan.bowles@ascension.org,,Physician,Physician,JBOWLES2,PHY,,1659463958,Saint Thomas Health Svcs-TN,10017292
-69,69,britt.maxwell@ascension.org,,Physician,Physician,BRMAXWELL,PHY,,1639201130,Saint Thomas Health Svcs-TN,10017421
-70,70,elias.haddad@ascension.org,,Physician,Physician,EHADDAD,PHY,,1093791063,Saint Thomas Health Svcs-TN,10017466
-71,71,richard.fox@ascension.org,,Physician,Physician,RFOX,PHY,,1093791063,Saint Thomas Health Svcs-TN,10017546
-72,72,todd.tolbert@ascension.org,,Physician,Physician,TTOLBERT2,PHY,,1427051432,Saint Thomas Health Svcs-TN,10017609
-73,73,jbaker@ascension.org,,Physician,Physician,JBAKE011,PHY,,1497793731,Saint Thomas Health Svcs-TN,10017904
-74,74,william.thompson2@ascension.org,,Physician,Physician,WTHOM010,PHY,,1619916970,Saint Thomas Health Svcs-TN,10018002
-75,75,peter.robertson@ascension.org,,Physician,Physician,PROBE001,PHY,,1154534923,Saint Thomas Health Svcs-TN,10018079
-76,76,robert.pickett@ascension.org,,Physician,Physician,RPICKETT,PHY,,1932128782,Saint Thomas Health Svcs-TN,10018093
-77,77,ramegowda.sudheendra@ascension.org,,Physician,Physician,RSUDHEEN,PHY,,1215926886,Saint Thomas Health Svcs-TN,10018106
-78,78,susan.donaghey@ascension.org,,Physician,Physician,SDONAGHEY,PHY,,1427073451,Saint Thomas Health Svcs-TN,10018274
-79,79,rick.bennett@ascension.org,,Physician,Physician,RBENNETT,PHY,,1528005667,Saint Thomas Health Svcs-TN,10018460
-80,80,phillip.wines@ascension.org,,Physician,Physician,PWINES,PHY,,1942226519,Saint Thomas Health Svcs-TN,10018526
-81,81,karl.hammonds@ascension.org,,Physician,Physician,KBHAMMONDS,PHY,,1952512865,Saint Thomas Health Svcs-TN,10018534
-82,82,stacy.davis1@ascension.org,,Physician,Physician,SHARR018,PHY,,1942203963,Saint Thomas Health Svcs-TN,10018544
-83,83,steven.tarquine@ascension.org,,Physician,Physician,STARQUINE,PHY,,1801996012,Saint Thomas Health Svcs-TN,10018678
-84,84,klbrown@ascension.org,,Physician,Physician,KLBROWN,PHY,,1063485373,Saint Thomas Health Svcs-TN,10018824
-85,85,david.gibson@ascension.org,,Physician,Physician,DGIBS002,PHY,,1770519704,Saint Thomas Health Svcs-TN,10018869
-86,86,benjamin.martel@ascension.org,,Physician,Physician,BMARTEL,PHY,,1902953706,Saint Thomas Health Svcs-TN,10018873
-87,87,erick.kyriakidis@ascension.org,,Physician,Physician,KKYRIAK,PHY,,1104863554,Saint Thomas Health Svcs-TN,10019073
-88,88,julia.richeson@ascension.org,,Employee,Employee,JRICH045,NUR,,1134102304,Saint Thomas Health Svcs-TN,10019080
-89,89,angus.webber@ascension.org,,Physician,Physician,AWEBBER,PHY,,1134102304,Saint Thomas Health Svcs-TN,10019127
-90,90,kacie.migliavacca@ascension.org,,Employee,Employee,KMIGLIAV,PHA,,1154394344,Saint Thomas Health Svcs-TN,10019453
-91,91,brian.wilcox@ascension.org,,Employee,Employee,ABWILCOX,BUS,,1154394344,Saint Thomas Health Svcs-TN,10019691
-92,92,nathaniel.martin@ascension.org,,Employee,Employee,NMART003,NUR,,1447204961,Saint Thomas Health Svcs-TN,10020701
-93,93,paul.mcmullan@ascension.org,,Physician,Physician,PMCMULLA,PHY,,1447204961,Saint Thomas Health Svcs-TN,10020986
-94,94,josalyn.johnston@ascension.org,,Employee,Employee,JJOHNSTO,NUR,,1285862482,Saint Thomas Health Svcs-TN,10021039
-95,95,julia.jacobs1@ascension.org,,Physician,Physician,JJACO007,PHY,,1285862482,Saint Thomas Health Svcs-TN,10021616
-96,96,vlada.melekhin@ascension.org,,Physician,Physician,VMELEKHI,PHY,,1043351471,Saint Thomas Health Svcs-TN,10021748
-97,97,frank.lafranchise@ascension.org,,Physician,Physician,ELAFRANC,PHY,,1194795104,Saint Thomas Health Svcs-TN,10021765
-98,98,yang.guo@ascension.org,,Physician,Physician,YGUO001,PHY,,1538324496,Saint Thomas Health Svcs-TN,10021922
-99,99,brockton.sansing@ascension.org,,Physician,Physician,BSANSING,PHY,,1144413956,Saint Thomas Health Svcs-TN,10029322
-100,100,chand.ramaiah@ascension.org,,Physician,Physician,CRAMAIAH,PHY,,1144285099,Saint Thomas Health Svcs-TN,10030064
-101,101,susan.greenhut@ascension.org,,Physician,Physician,SGREENHU,PHY,,1437392917,Saint Thomas Health Svcs-TN,10030527
-102,102,mshaa001@ascensionhealth.org,,Contractor,Contractor,MSHAA001,PHY,,1235103912,St. Vincent's HealthCare-FL,10030968
-103,103,brenna.lopez@ascension.org,,Employee,Employee,BOREI001,NUR,,1578755476,St. Vincent's HealthCare-FL,10030986
-104,104,brittany.hudson@ascension.org,,Employee,Employee,BHEND003,NUR,,1578755476,St. Vincent's HealthCare-FL,10031020
-105,105,thyra.topalounevong@ascension.org,,Employee,Employee,TTOPALOU,ADM,,1578755476,St. Vincent's HealthCare-FL,10031465
-106,106,natacha.simeon@ascension.org,,Employee,Employee,NSIME001,NUR,,1578755476,St. Vincent's HealthCare-FL,10031530
-107,107,myrra.garabiles@ascension.org,,Employee,Employee,MGARA001,NUR,,1578755476,St. Vincent's HealthCare-FL,10031605
-108,108,ravi.pothireddy@ascension-external.org,,Contractor,Contractor,RPOTH001,PHY,,1578755476,St. Vincent's HealthCare-FL,10031821
-109,109,desiree.touvoli@ascension-external.org,,Contractor,Contractor,DTOUVOLI,PHY,,1578816435,St. Vincent's HealthCare-FL,10031913
-110,110,mmost001@ascension-external.org,,Contractor,Contractor,MMOST001,PHY,,1043212269,St. Vincent's HealthCare-FL,10032175
-111,111,katy.lopez@ascension.org,,Employee,Employee,KLOPE002,NUR,,1568426302,St. Vincent's HealthCare-FL,10032295
-112,112,patricia.scott@ascension.org,,Employee,Employee,PSCOT002,BUS,,1568426302,Ascension Technologies,10032455
-113,113,willie.pennick@ascension.org,,Physician,Physician,WPENNICK,PHY,,1568426302,St. Vincent's HealthCare-FL,10032539
-114,114,gustavo.jurado@ascension-external.org,,Contractor,Contractor,GJURA001,PHY,,1356441661,St. Vincent's HealthCare-FL,10032711
-115,115,suzanne.belz@ascension.org,,Employee,Employee,SBELZ,CLS,,1962494542,Ascension Technologies,10032769
-116,116,max.solano@ascension.org,,Contractor,Contractor,MSOLA001,PHY,,1962494542,St. Vincent's HealthCare-FL,10032895
-117,117,serena.martin@ascension.org,,Employee,Employee,SMART027,NUR,,1215941539,St. Vincent's HealthCare-FL,10033002
-118,118,amalia.gozum@ascension-external.org,,Contractor,Contractor,AGOZU001,PHY,,1215941539,St. Vincent's HealthCare-FL,10033521
-119,119,karen.westbrook@ascension.org,,Employee,Employee,KWESTBRO,BUS,,1902847445,Ascension Technologies,10033552
-120,120,carol.williams1@ascension.org,,Employee,Employee,CWILL025,NUR,,1902847445,St. Vincent's HealthCare-FL,10033578
-121,121,jennifer.burkstrand@ascension.org,,Employee,Employee,JBURKSTR,ADM,,1902847445,St. Vincent's HealthCare-FL,10033697
-122,122,wesley.mills@ascension.org,,Physician,Physician,WMILL002,PHY,,1902847445,St. Vincent's HealthCare-FL,10034007
-123,123,ramona.greene@ascension.org,,Employee,Employee,RGREE014,NUR,,1356326995,St. Vincent's HealthCare-FL,10034182
-124,124,muhammad.ali@ascension-external.org,,Contractor,Contractor,MALI001,PHY,,1356326995,St. Vincent's HealthCare-FL,10034402
-125,125,susan.pace@ascension.org,,Employee,Employee,SPACE001,NUR,,1619918042,St. Vincent's HealthCare-FL,10034507
-126,126,kimberly.lewis@ascension.org,,Employee,Employee,KLEWI006,QRC,,1619918042,St. Vincent's HealthCare-FL,10034604
-127,127,carolyn.evans1@ascension.org,,Employee,Employee,CEVAN001,CLS,,1619918042,Ascension Technologies,10034775
-128,128,suzanne.brulte@ascension-external.org,,Contractor,Contractor,SBRULTE,PHY,,1619918042,St. Vincent's HealthCare-FL,10035091
-129,129,binh.doan@ascension-external.org,,Contractor,Contractor,BDOAN001,PHY,,1023020856,St. Vincent's HealthCare-FL,10035489
-130,130,richard.moore1@ascension.org,,Physician,Physician,RMOOR013,PHY,,1902167232,St. Vincent's HealthCare-FL,10035707
-131,131,patricia.legg@ascension.org,,Employee,Employee,PLEGG002,CLS,,1386930493,Ascension Technologies,10035811
-132,132,dawn.strong@ascension.org,,Employee,Employee,DSTRO001,NUR,,1386930493,St. Vincent's HealthCare-FL,10035874
-133,133,candace.long@ascension.org,,Employee,Employee,CLONG011,NUR,,1386930493,St. Vincent's HealthCare-FL,10035908
-134,134,holly.kimball@ascension.org,,Employee,Employee,HKIMB001,NUR,,1386930493,St. Vincent's HealthCare-FL,10035910
-135,135,catherine.nemchik@ascension.org,,Employee,Employee,CNEMC001,NUR,,1386930493,St. Vincent's HealthCare-FL,10036710
-136,136,benjamin.oconnell@ascension.org,,Physician,Physician,BOCONNEL,PHY,,1386930493,St. Vincent's HealthCare-FL,10036784
-137,137,ashley.griffis@ascension.org,,Employee,Employee,AGRIF002,NUR,,1336673003,St. Vincent's HealthCare-FL,10037054
-138,138,katherine.jewell@ascension-external.org,,Contractor,Contractor,KJEWE001,PHY,,1336673003,St. Vincent's HealthCare-FL,10037334
-139,139,madison.sloop@ascension.org,,Employee,Employee,MSLOO001,NUR,,1417158452,St. Vincent's HealthCare-FL,10037622
-140,140,ario.rezaei@ascension.org,,Contractor,Contractor,AREZA001,PHY,,1417158452,St. Vincent's HealthCare-FL,10037927
-141,141,abdallah.kafrouni@ascension.org,,Physician,Physician,AKAFROUN,PHY,,1831284645,St. Vincent's HealthCare-FL,10038013
-142,142,vacha001@ascension-external.org,,Contractor,Contractor,VACHA001,PHY,,1639331176,St. Vincent's HealthCare-FL,10038136
-143,143,rjo001@ascensionhealth.org,,Contractor,Contractor,RJO001,PHY,,1629042403,St. Vincent's HealthCare-FL,10038332
-144,144,carrie.sheahan@ascension.org,,Employee,Employee,CSHEAHAN,NUR,,1275828089,Columbia Health System,10040849
-145,145,joanna.uzzell@ascension.org,,Employee,Employee,JUZZELL,IS,,1275828089,Saint Thomas Health Svcs-TN,10051190
-146,146,amber.hamblin@ascension.org,,Employee,Employee,AHAMBLIN,NUR,,1275828089,St. Vincent's HealthCare-FL,10052661
-147,147,zakaria.botros@ascension.org,,Physician,Physician,ZBOTROS,PHY,,1275828089,Saint Thomas Health Svcs-TN,10053416
-148,148,andrew.morse@ascension.org,,Physician,Physician,MMORS002,PHY,,1922285337,Saint Thomas Health Svcs-TN,10053441
-149,149,errik.goodman@ascension.org,,Employee,Employee,EGOODMAN,CLS,,1356315063,Saint Thomas Health Svcs-TN,10053468
-150,150,christopher.dunlap@ascension.org,,Physician,Physician,CDUNL005,PHY,,1356315063,Saint Thomas Health Svcs-TN,10053542
-151,151,diana.kooper@ascension.org,,Physician,Physician,DKOOPER,PHY,,1174718480,Saint Thomas Health Svcs-TN,10054621
-152,152,mmarsden@ascension.org,,Employee,Employee,MMARSDEN,PHY,,1639121338,Saint Thomas Health Svcs-TN,10054723
-153,153,dan.vonpasecky@ascension.org,,Employee,Employee,DVONPAS,IS,,1184650145,Ascension Technologies,10062504
-154,154,mjchapman@ascension.org,,Employee,Employee,MJCHAPMAN,IS,,1184650145,Ascension Technologies,10069185
-155,155,jcoffey@ascension.org,,Employee,Employee,JCOFFEY,IS,,1184650145,Ascension Technologies,10070818
-156,156,kfzabreznik@ascension.org,,Employee,Employee,KZABREZN,IS,,1184650145,Ascension Technologies,10071499
-157,157,kdeen@ascension.org,,Employee,Employee,KDEEN,IS,,1184650145,Ascension Technologies,10071584
-158,158,rebecca.gabbard@ascension.org,,Employee,Employee,RGABBARD,IS,,1184650145,Saint Thomas Health Svcs-TN,10076311
-159,159,steven.hegedus@ascension.org,,Physician,Physician,SHEGEDUS,PHY,,1184650145,Saint Thomas Health Svcs-TN,10078482
-160,160,samit.desai@ascension.org,,Employee,Employee,SDESA002,IS,,1528286606,Ascension System Office-MO,10081701
-161,161,janice.kinder1@ascension.org,,Employee,Employee,JKIND002,NUR,,1528286606,St. Vincent's HealthCare-FL,10092756
-162,162,melissa.patroni@ascension.org,,Employee,Employee,MMCLESTE,IS,,1528286606,Ascension Technologies,10092822
-163,163,kristin.rutterer@ascension.org,,Physician,Physician,KRUTTERE,PHY,,1528286606,Saint Thomas Health Svcs-TN,10093105
-164,164,colleen.vanderkolk@ascension.org,,Physician,Physician,CVANDERK,PHY,,1811935711,Saint Thomas Health Svcs-TN,10093615
-165,165,david.elhassan@ascension.org,,Physician,Physician,DELHASS,PHY,,1750794699,St. Vincent's HealthCare-FL,10094406
-166,166,rifogel@ascension.org,,Employee,Employee,RIFOGEL,PHY,,1083688436,Ascension System Office-MO,10099689
-167,167,joanna.juriss@ascension.org,,Employee,Employee,JJURISS,IS,,1740571116,Ascension System Office-MO,10102011
-168,168,gabrielle.king@ascension.org,,Employee,Employee,GKING005,IS,,1740571116,Ascension Technologies,10106304
-169,169,rosemary.hluska@ascension.org,,Employee,Employee,RLHLUSKA,IS,,1740571116,Ascension System Office-MO,10115810
-170,170,lauren.stanisic@ascension.org,,Employee,Employee,LSTANISI,IS,,1740571116,Ascension Technologies,10117914
-171,171,kristyn.seibert@ascension.org,,Employee,Employee,KSEIB001,CLS,,1740571116,Ascension Technologies,10122868
-172,172,jennifer.goethe2@ascension.org,,Employee,Employee,JGOET001,PHS,,1740571116,St. Vincent's HealthCare-FL,10127434
-173,173,mallary.hodges@ascension.org,,Physician,Physician,MHODG001,PHY,,1740571116,Saint Thomas Health Svcs-TN,10128250
-174,174,brooke.tobin@ascension.org,,Employee,Employee,BBORNE,IS,,1588807416,Saint Thomas Health Svcs-TN,10128689
-175,175,jolene.patrick@ascension.org,,Employee,Employee,JPATR005,IS,,1588807416,Ascension Technologies,10129362
-176,176,brett.parker@ascension.org,,Physician,Physician,BPARK023,PHY,,1588807416,Saint Thomas Health Svcs-TN,10131567
-177,177,jennifer.haynie@ascension.org,,Physician,Physician,JHAYNIE,PHY,,1689641615,Saint Thomas Health Svcs-TN,10134131
-178,178,khristine.rivera@ascension.org,,Employee,Employee,KRIVE001,IS,,1689641615,Ascension Technologies,10136997
-179,179,ted.daniel@ascension.org,,Contractor,Contractor,DANIET01,PHY,,1689641615,St. John Health-MI,10142642
-180,180,prabhash.tatineni@ascension.org,,Employee,Employee,PTATINEN,IS,,1477664167,Borgess Health-MI,10163352
-181,181,winona.duncan@ascension.org,,Employee,Employee,WDUNCAN,IS,,1184868481,Saint Thomas Health Svcs-TN,10168158
-182,182,amanda.dean@ascension.org,,Employee,Employee,ANAPI001,NUR,,1184868481,St. Vincent's HealthCare-FL,10169131
-183,183,mark.pilkinton@ascension.org,,Physician,Physician,MPILK002,PHY,,1184868481,Saint Thomas Health Svcs-TN,10169486
-184,184,angela.eckard@ascension.org,,Employee,Employee,ASCHUL,BUS,,1427344720,Ascension Technologies,10172630
-185,185,dennis.degraaf@ascension.org,,Employee,Employee,DDEGRAAF,IS,,1427344720,Ascension Technologies,10173715
-186,186,wes.murks@ascension.org,,Employee,Employee,WMURKS,CLS,,1427344720,Ascension Technologies,10174096
-187,187,lavonne.pappas@ascension.org,,Employee,Employee,LPAPP001,CLS,,1427344720,Ascension Technologies,10174127
-188,188,drew.doster@ascension.org,,Employee,Employee,DDOSTER,IS,,1427344720,Ascension Technologies,10174195
-189,189,okraft@ascension.org,,Employee,Employee,OKRAFT,IS,,1427344720,Ascension Technologies,10174504
-190,190,derek.labelle@ascension.org,,Employee,Employee,DLABE001,IS,,1427344720,Ascension Technologies,10174535
-191,191,douglas.gruen@ascension.org,,Employee,Employee,DGRUEN,IS,,1427344720,Ascension Technologies,10174585
-192,192,karen.avery@ascension.org,,Employee,Employee,KAVERY,IS,,1427344720,Ascension Technologies,10174635
-193,193,william.bailey@ascension.org,,Employee,Employee,BAILEW01,IS,,1427344720,Ascension Technologies,10174919
-194,194,megan.davis@ascension.org,,Employee,Employee,MDAVI105,IS,,1427344720,Ascension Technologies,10175230
-195,195,sara.standridge@ascension.org,,Employee,Employee,SASTANDR,IS,,1427344720,Ascension Technologies,10175239
-196,196,vicki.kenworthy@ascension.org,,Employee,Employee,VAKENWO1,IS,,1427344720,Ascension Technologies,10175416
-197,197,bob.wilson@ascension.org,,Employee,Employee,BWILS001,IS,,1427344720,Ascension Technologies,10175470
-198,198,becky.ruhnau@ascension.org,,Employee,Employee,BRUHNAU,IS,,1427344720,Ascension Technologies,10175765
-199,199,valerie.owens@ascension.org,,Employee,Employee,VOWENS,CLS,,1427344720,Ascension Technologies,10184046
-200,200,angela.hutsonstone@ascension.org,,Employee,Employee,AHUTS002,BUS,,1427344720,Ascension Technologies,10184244
-201,201,samira.khan@ascension.org,,Physician,Physician,SKHAN035,PHY,,1427344720,Saint Thomas Health Svcs-TN,10184550
-202,202,roland.garretson@ascension.org,,Physician,Physician,RGARR006,PHY,,1568406783,Saint Thomas Health Svcs-TN,10184759
-203,203,eric.myers@ascension.org,,Contractor,Contractor,JMYER029,PHY,,1447440177,Saint Thomas Health Svcs-TN,10186905
-204,204,kelly.endermuhle@ascension.org,,Employee,Employee,KENDERMU,IS,,1396046694,Ascension Technologies,10187747
-205,205,susan.shell1@ascension.org,,Employee,Employee,SSHEL013,IS,,1396046694,Saint Thomas Health Svcs-TN,10189055
-206,206,erwin.velasquezkho@ascension.org,,Contractor,Contractor,EVELA004,PHY,,1396046694,Saint Thomas Health Svcs-TN,10191314
-207,207,thomas.brittingham@ascension.org,,Physician,Physician,TBRITTINGHAM,PHY,,1700827763,Saint Thomas Health Svcs-TN,10192046
-208,208,adu.boachie@ascension.org,,Physician,Physician,ABOACHIE,PHY,,1255691978,Saint Thomas Health Svcs-TN,10192324
-209,209,jeff.goddard@ascension.org,,Employee,Employee,JGODD004,CLS,,1790729887,Ascension Technologies,10194909
-210,210,robert.forti@ascension.org,,Employee,Employee,RFORTI,PHY,,1790729887,Saint Thomas Health Svcs-TN,10196884
-211,211,jessica.welcome@ascension.org,,Employee,Employee,JWELC021,NUR,,1689694887,St. Vincent's HealthCare-FL,10197154
-212,212,dudley.glass@ascension.org,,Physician,Physician,DGLASS,PHY,,1689694887,Saint Thomas Health Svcs-TN,10199633
-213,213,joshua.pardue@ascension.org,,Employee,Employee,JPARDUE,PHS,,1255355277,St. Vincent's HealthCare-FL,10199716
-214,214,matthew.palmer2@ascension.org,,Employee,Employee,MPALM019,IS,,1255355277,Saint Thomas Health Svcs-TN,10205406
-215,215,melissa.eaton@ascension.org,,Employee,Employee,MEATO002,IS,,1255355277,Ascension System Office-MO,10206172
-216,216,robert.krauth@ascension.org,,Physician,Physician,RKRAUTH,PHY,,1255355277,Saint Thomas Health Svcs-TN,10206559
-217,217,muhammad.malik@ascension.org,,Physician,Physician,MMALI007,PHY,,1447284864,Saint Thomas Health Svcs-TN,10211528
-218,218,allen.vantrease@ascension.org,,Physician,Physician,AVANT001,PHY,,1346504529,Saint Thomas Health Svcs-TN,10213416
-219,219,richard.joyner@ascension.org,,Employee,Employee,RJOYNER,PHS,,1902903966,Saint Thomas Health Svcs-TN,10213625
-220,220,brooke.gann@ascension.org,,Employee,Employee,BGANN003,NUR,,1902903966,Saint Thomas Health Svcs-TN,10214176
-221,221,eblankenship@ascension.org,,Contractor,Contractor,EBLAN007,PHS,,1902903966,Seton Family of Hospitals-TX,10215283
-222,222,allen.huong@ascension.org,,Physician,Physician,AHUON001,PHY,,1457310286,Saint Thomas Health Svcs-TN,10215601
-223,223,sidney.gilbert@ascension.org,,Physician,Physician,SGILB018,PHY,,1083840532,Saint Thomas Health Svcs-TN,10216641
-224,224,leigh.ryan@ascension.org,,Employee,Employee,LRYAN011,IS,,1871597435,Saint Thomas Health Svcs-TN,10217941
-225,225,sandra.martinez-suazo@ascension.org,,Employee,Employee,SMART099,IS,,1871597435,Saint Thomas Health Svcs-TN,10219049
-226,226,thomas.walsh@ascension.org,,Physician,Physician,TWALS008,PHY,,1871597435,Saint Thomas Health Svcs-TN,10221982
-227,227,victoria.okafor@ascension.org,,Physician,Physician,VOKAFOR,PHY,,1356592778,Saint Thomas Health Svcs-TN,10222317
-228,228,susan.bradley@ascension.org,,Employee,Employee,SBRAD042,NUR,,1164717948,Saint Thomas Health Svcs-TN,10223174
-229,229,natalie.rollman@ascension.org,,Contractor,Contractor,NROLLMAN,PHY,,1164717948,Saint Thomas Health Svcs-TN,10223391
-230,230,eric.toline@ascension.org,,Physician,Physician,ETOLINE,PHY,,1184069429,Saint Thomas Health Svcs-TN,10224116
-231,231,proell@ascension.org,,Employee,Employee,PROELL,IS,,1528404944,Ascension Technologies,10248738
-232,232,sadrac.rodriguez@ascension.org,,Physician,Physician,SRODR016,PHY,,1528404944,Saint Thomas Health Svcs-TN,10249061
-233,233,weiping.li@ascension.org,,Physician,Physician,WLI001,PHY,,1932331550,Saint Thomas Health Svcs-TN,10249085
-234,234,shelby.reed@ascension.org,,Employee,Employee,SREED049,NUR,,1982808473,Saint Thomas Health Svcs-TN,10253348
-235,235,katrina.webster@ascension.org,,Employee,Employee,KWEBS006,NUR,,1982808473,Saint Thomas Health Svcs-TN,10257417
-236,236,eric.robinson@ascension.org,,Physician,Physician,EROBI033,PHY,,1982808473,Saint Thomas Health Svcs-TN,10257927
-237,237,desiree.carr@ascension.org,,Employee,Employee,DCARR002,NUR,,1366642415,St. Vincent's HealthCare-FL,10259309
-238,238,stephanie.patton@ascension.org,,Employee,Employee,SPATT026,NUR,,1366642415,St. Vincent's HealthCare-FL,10259405
-239,239,marilyn.balolong@ascension.org,,Employee,Employee,MBALOLON,PHA,,1366642415,St. Vincent's HealthCare-FL,10263010
-240,240,hasan.ozdegirmenci@ascension.org,,Physician,Physician,HOZDE001,PHY,,1366642415,Saint Thomas Health Svcs-TN,10264242
-241,241,kristyn.carter@ascension.org,,Employee,Employee,KCART033,NUR,,1841387941,St. Vincent's HealthCare-FL,10264549
-242,242,amy.milliken@ascension.org,,Employee,Employee,AMILL149,IS,,1841387941,Saint Thomas Health Svcs-TN,10265073
-243,243,jack.coggeshall@ascension.org,,Physician,Physician,JCOGGESH,PHY,,1841387941,Saint Thomas Health Svcs-TN,10266936
-244,244,dyveke.pratt@ascension.org,,Physician,Physician,DPRAT006,PHY,,1154596732,Saint Thomas Health Svcs-TN,10268962
-245,245,helen.sesco@ascension.org,,Employee,Employee,HSESCO,NUR,,1962841957,St. Vincent's HealthCare-FL,10269708
-246,246,awais.javed1@ascension.org,,Physician,Physician,AJAVE001,PHY,,1962841957,Saint Thomas Health Svcs-TN,10272119
-247,247,adria.keith@ascension.org,,Employee,Employee,AKEIT007,HIM,,1144541905,St. Vincent's HealthCare-FL,10286239
-248,248,kristi.johnson@ascension.org,,Employee,Employee,KJOHN236,NUR,,1144541905,St. Vincent's HealthCare-FL,10286922
-249,249,leah.banker@ascension.org,,Physician,Physician,LBANK007,PHY,,1144541905,Saint Thomas Health Svcs-TN,10287022
-250,250,kathryn.evans@ascension.org,,Physician,Physician,KEVAN060,PHY,,1104269067,Saint Thomas Health Svcs-TN,10287201
-251,251,swaroopa.bartakke@ascension.org,,Physician,Physician,SBARTAKKE,PHY,,1902004005,Saint Thomas Health Svcs-TN,10289631
-252,252,william.bounds@ascension.org,,Physician,Physician,WBOUNDS,PHY,,1477598712,Saint Thomas Health Svcs-TN,10289632
-253,253,viola.chen@ascension.org,,Physician,Physician,VCHEN,PHY,,1245299411,Saint Thomas Health Svcs-TN,10289634
-254,254,steve.may1@ascension.org,,Physician,Physician,SMAY,PHY,,1154366409,Saint Thomas Health Svcs-TN,10289635
-255,255,brent.coil@ascension.org,,Physician,Physician,BCOIL,PHY,,1063458255,Saint Thomas Health Svcs-TN,10289636
-256,256,daniele.mcgee@ascension.org,,Physician,Physician,DMCGE003,PHY,,1891963591,Saint Thomas Health Svcs-TN,10289639
-257,257,shawnda.hollie@ascension.org,,Physician,Physician,SHOLLIE,PHY,,1235357062,Saint Thomas Health Svcs-TN,10289640
-258,258,brett.inglis@ascension.org,,Physician,Physician,BINGL001,PHY,,1972718104,Saint Thomas Health Svcs-TN,10289642
-259,259,rachel.mehr@ascension.org,,Physician,Physician,RBMEHR,PHY,,1639314776,Saint Thomas Health Svcs-TN,10289643
-260,260,tore.kvaslerud2@ascension.org,,Physician,Physician,TKVAS001,PHY,,1659710077,Saint Thomas Health Svcs-TN,10289644
-261,261,michael.miller3@ascension.org,,Physician,Physician,MRMILLER,PHY,,1508806746,Saint Thomas Health Svcs-TN,10289647
-262,262,bruce.richards@ascension.org,,Physician,Physician,BRICHARDS,PHY,,1972548220,Saint Thomas Health Svcs-TN,10289648
-263,263,gary.margolies@ascension.org,,Physician,Physician,GMARGOLI,PHY,,1982649257,Saint Thomas Health Svcs-TN,10289649
-264,264,craig.rutland@ascension.org,,Physician,Physician,CRUTLAND,PHY,,1881639136,Saint Thomas Health Svcs-TN,10289651
-265,265,margaret.stolz@ascension.org,,Physician,Physician,MSTOLZ,PHY,,1881638179,Saint Thomas Health Svcs-TN,10289652
-266,266,michelle.wall@ascension.org,,Physician,Physician,MGWALL,PHY,,1639186349,Saint Thomas Health Svcs-TN,10289655
-267,267,nika.ferdowsi@ascension.org,,Physician,Physician,NFERSOWS,PHY,,1619254141,Saint Thomas Health Svcs-TN,10289659
-268,268,john.williams1@ascension.org,,Physician,Physician,JAWILLIAMS3,PHY,,1538103692,Saint Thomas Health Svcs-TN,10289660
-269,269,Benjamin.Ferrell@ascension-external.org,,Contractor,Contractor,BFERRELL,PHY,,1225203540,Saint Thomas Health Svcs-TN,10289662
-270,270,rgarman@ascension.org,,Physician,Physician,RGARMAN,PHY,,1881638971,Saint Thomas Health Svcs-TN,10289663
-271,271,james.hayes@ascension.org,,Physician,Physician,JHAYE033,PHY,,1730292913,Saint Thomas Health Svcs-TN,10290122
-272,272,kimberlee.millikan@ascension.org,,Employee,Employee,KMILL172,IS,,UNKNOWN,Ascension Technologies,10290803
-273,273,caitlin.bass@ascension.org,,Employee,Employee,CBASS010,NUR,,UNKNOWN,St. Vincent's HealthCare-FL,10291782
-274,274,elizabeth.vangilder@ascension.org,,Employee,Employee,EVANGIL,PHY,,UNKNOWN,Saint Thomas Health Svcs-TN,10293454
-275,275,john.beuerlein@ascension.org,,Physician,Physician,JBEUE001,PHY,,1417040205,Saint Thomas Health Svcs-TN,10293926
-276,276,deann.toth@ascension.org,,Employee,Employee,DTOTH002,IS,,1750701900,Ascension Technologies,10294646
-277,277,nicholas.flynn2@ascension.org,,Physician,Physician,NFLYN002,PHY,,1750701900,Saint Thomas Health Svcs-TN,10295760
-278,278,praful.patel@ascension.org,,Physician,Physician,PPATE106,PHY,,1396760575,St. Vincent's HealthCare-FL,10296634
-279,279,matt.odell@ascension.org,,Employee,Employee,MODEL005,NUR,,1871770123,Saint Thomas Health Svcs-TN,10311441
-280,280,jonathan.hughes@ascension.org,,Employee,Employee,JHUGH037,PHA,,1871770123,Saint Thomas Health Svcs-TN,10312074
-281,281,phaythoune.chothmounethinh@ascension.org,,Physician,Physician,PCHOTHMO,PHY,,1871770123,Saint Thomas Health Svcs-TN,10312489
-282,282,karen.coachman@ascension.org,,Employee,Employee,KCOACHMA,NUR,,1285054015,St. Vincent's HealthCare-FL,10312765
-283,283,karina.gonzalez@ascension.org,,Physician,Physician,KGONZ020,PHY,,1285054015,Saint Thomas Health Svcs-TN,10313605
-284,284,ehab.hana@ascension.org,,Physician,Physician,EHANA,PHY,,1295019198,Saint Thomas Health Svcs-TN,10314869
-285,285,derick.jenkins@ascension.org,,Physician,Physician,DJENK034,PHY,,1649566258,Saint Thomas Health Svcs-TN,10315050
-286,286,melissa.buhler@ascension.org,,Employee,Employee,MBAKERR,NUR,,1205038296,St. Vincent's HealthCare-FL,10315651
-287,287,anupama.bhide@ascension.org,,Employee,Employee,W407093,IS,,1205038296,Ascension Technologies,10321795
-288,288,eyad.kawar@ascension.org,,Physician,Physician,EKAWAR,PHY,,1205038296,St. Vincent's HealthCare-FL,10331821
-289,289,brendan.o'hare@ascension.org,,Physician,Physician,BOHAR002,PHY,,1669678116,Saint Thomas Health Svcs-TN,10331839
-290,290,todd.miller1@ascension.org,,Physician,Physician,MMILL203,PHY,,1891985263,Saint Thomas Health Svcs-TN,10333157
-291,291,kelly.davis2@ascension.org,,Physician,Physician,KDAVI173,PHY,,1295052934,Saint Thomas Health Svcs-TN,10333647
-292,292,sarah.clark2@ascension.org,,Physician,Physician,SCLAR092,PHY,,1265875553,Saint Thomas Health Svcs-TN,10336607
-293,293,matt.thomas@ascension.org,,Employee,Employee,MTHOM217,IS,,1952386724,Ascension Technologies,10339145
-294,294,aisley@ascension.org,,Employee,Employee,AISLEY,QRC,,1952386724,St. Vincent's HealthCare-FL,10339509
-295,295,men-hsien.tsay@ascension.org,,Employee,Employee,MTSAY,CLS,,1528487113,Ascension Technologies,10339776
-296,296,stanton.veazey@ascension.org,,Physician,Physician,SVEAZ001,PHY,,1528487113,Saint Thomas Health Svcs-TN,10340591
-297,297,kristen.lytle@ascension.org,,Physician,Physician,KLYTLE,PHY,,1912325150,Saint Thomas Health Svcs-TN,10341083
-298,298,bayar.haji@ascension.org,,Employee,Employee,BHAJI,PHA,,1902224041,Saint Thomas Health Svcs-TN,10342087
-299,299,scott.galloway@ascension.org,,Physician,Physician,SGALL024,PHY,,1902224041,Saint Thomas Health Svcs-TN,10342795
-300,300,oran.basel@ascension.org,,Physician,Physician,OBASE002,PHY,,1497175632,Saint Thomas Health Svcs-TN,10342796
-301,301,kimberly.scully@ascension.org,,Employee,Employee,KSCUL003,QRC,,1942620232,Saint Thomas Health Svcs-TN,10343380
-302,302,melody.rose@ascension.org,,Employee,Employee,MROSE037,CLS,,1942620232,Ascension Technologies,10343629
-303,303,teresa.phillips@ascension.org,,Employee,Employee,TPHIL037,NUR,,1942620232,Saint Thomas Health Svcs-TN,10343819
-304,304,jaclyn.pearson2@ascension.org,,Physician,Physician,JPEAR036,PHY,,1942620232,Saint Thomas Health Svcs-TN,10344541
-305,305,lada.sloan@ascension.org,,Physician,Physician,LSLOA003,PHY,,1336377837,Saint Thomas Health Svcs-TN,10346338
-306,306,megan.laux@ascension.org,,Employee,Employee,MROBB017,PHA,,1457678880,Saint Thomas Health Svcs-TN,10347147
-307,307,diana.sepehri-harvey@ascension.org,,Physician,Physician,DSEPEHRI,PHY,,1457678880,Saint Thomas Health Svcs-TN,10347206
-308,308,lorraine.charles@ascension.org,,Physician,Physician,LCHAR011,PHY,,1275944985,Saint Thomas Health Svcs-TN,10350851
-309,309,benjamin.maddox@ascension.org,,Physician,Physician,BMADD008,PHY,,1508276213,Saint Thomas Health Svcs-TN,10351757
-310,310,marian.bekhit@ascension.org,,Physician,Physician,MBEKH002,PHY,,1164832648,Saint Thomas Health Svcs-TN,10353058
-311,311,carrie.santos@ascension.org,,Employee,Employee,CSANT015,NUR,,1730554494,St. Vincent's HealthCare-FL,10353692
-312,312,james.conley2@ascension.org,,Physician,Physician,JCONL013,PHY,,1205270535,Saint Thomas Health Svcs-TN,10354491
-313,313,ashley.way@ascension.org,,Employee,Employee,AWAY,NUR,,1497044093,St. Vincent's HealthCare-FL,10354881
-314,314,darian.reddick@ascension.org,,Physician,Physician,DREDDICK,PHY,,1497044093,Saint Thomas Health Svcs-TN,10355120
-315,315,savannah.york@ascension.org,,Employee,Employee,SYORK013,NUR,,1760669139,Saint Thomas Health Svcs-TN,10357208
-316,316,patrick.saitta@ascension.org,,Physician,Physician,PSAIT002,PHY,,1760669139,Saint Thomas Health Svcs-TN,10357773
-317,317,zelfa.gonzalezyanez@ascension.org,,Employee,Employee,ZGONZ003,PHS,,1518944784,Ascension System Office-MO,10359030
-318,318,david.bauman@ascension.org,,Physician,Physician,DBAUM011,PHY,,1518944784,Saint Thomas Health Svcs-TN,10359352
-319,319,aaron.evans@ascension.org,,Physician,Physician,AEVAN070,PHY,,1164835070,Saint Thomas Health Svcs-TN,10359683
-320,320,alma.tamula@ascension.org,,Physician,Physician,ATAMULA,PHY,,1255316519,Saint Thomas Health Svcs-TN,10361598
-321,321,timothy.kreth@ascension.org,,Physician,Physician,TKRET002,PHY,,1679546717,Saint Thomas Health Svcs-TN,10363932
-322,322,john.franklin@ascension.org,,Employee,Employee,JFRAN068,NUR,,1912101494,Saint Thomas Health Svcs-TN,10368096
-323,323,eitan.friedman@ascension.org,,Physician,Physician,EFRIE004,PHY,,1912101494,Saint Thomas Health Svcs-TN,10370378
-324,324,ashley.terry@ascension.org,,Physician,Physician,ATERR029,PHY,,1336589613,Saint Thomas Health Svcs-TN,10373904
-325,325,carlee.boyte@ascension.org,,Employee,Employee,CBOYTE,ADM,,1912276890,Saint Thomas Health Svcs-TN,10375400
-326,326,simi.marwaha@ascension.org,,Physician,Physician,SMARW001,PHY,,1912276890,Saint Thomas Health Svcs-TN,10376155
-327,327,william.hedges@ascension.org,,Employee,Employee,WHEDGES,PHA,,1427445220,Saint Thomas Health Svcs-TN,10377729
-328,328,ciara.conway@ascension.org,,Physician,Physician,CCONW005,PHY,,1427445220,Saint Thomas Health Svcs-TN,10378315
-329,329,terri.donati@ascension.org,,Employee,Employee,TDONATI,NUS,,1679702716,Saint Thomas Health Svcs-TN,10378578
-330,330,john.biglane@ascension.org,,Physician,Physician,JBIGLANE,PHY,,1679702716,Saint Thomas Health Svcs-TN,10378678
-331,331,april.foster@ascension.org,,Employee,Employee,AFOST036,IS,,1447481254,Saint Thomas Health Svcs-TN,10380349
-332,332,lindsay.keith@ascension.org,,Physician,Physician,LKEIT005,PHY,,1447481254,Saint Thomas Health Svcs-TN,10380356
-333,333,mark.manwaring@ascension.org,,Physician,Physician,MMANW001,PHY,,1912107277,Saint Thomas Health Svcs-TN,10380360
-334,334,anna.fuller@ascension.org,,Physician,Physician,AFULL016,PHY,,1720371594,Saint Thomas Health Svcs-TN,10382414
-335,335,rosalind.womack@ascension.org,,Physician,Physician,RWOMA003,PHY,,1508093816,Saint Thomas Health Svcs-TN,10382603
-336,336,davis.stephen@ascension.org,,Physician,Physician,DSTEP018,PHY,,1750769154,Saint Thomas Health Svcs-TN,10382749
-337,337,jacob.devolder@ascension.org,,Physician,Physician,JDEVO006,PHY,,1427444058,Saint Thomas Health Svcs-TN,10383295
-338,338,elizabeth.swan@ascension.org,,Employee,Employee,ESWAN013,NUR,,1194145078,St. Vincent's HealthCare-FL,10383545
-339,339,cody.bogema@ascension.org,,Physician,Physician,CBOGEMA,PHY,,1194145078,Saint Thomas Health Svcs-TN,10385639
-340,340,hannah.bloom@ascension.org,,Employee,Employee,HBLOOM,BUS,,1114148855,Saint Thomas Health Svcs-TN,10385734
-341,341,anisa.karic@ascension.org,,Employee,Employee,AKARIC,NUR,,1114148855,St. Vincent's HealthCare-FL,10387890
-342,342,ginger.simpson@ascension.org,,Employee,Employee,GSIMP011,NUR,,1114148855,Saint Thomas Health Svcs-TN,10389494
-343,343,reagan.saig@ascension.org,,Physician,Physician,RSAIG,PHY,,1114148855,Saint Thomas Health Svcs-TN,10389754
-344,344,mark.robbins@ascension.org,,Physician,Physician,MROBB007,PHY,,1538256672,Saint Thomas Health Svcs-TN,10390362
-345,345,amy.baccetti@ascension.org,,Physician,Physician,ABACCETT,PHY,,1457758716,Saint Thomas Health Svcs-TN,10394492
-346,346,ray.johnson@ascension.org,,Physician,Physician,RJOHN187,PHY,,1124096904,Saint Thomas Health Svcs-TN,10395829
-347,347,frank.louthan@ascension.org,,Physician,Physician,FLOUTHAN,PHY,,1609844489,Saint Thomas Health Svcs-TN,10395830
-348,348,james.poliner@ascension.org,,Physician,Physician,JPOLINER,PHY,,1861405409,Saint Thomas Health Svcs-TN,10395832
-349,349,joanna.humphrey@ascension.org,,Employee,Employee,JHUMP021,NUR,,1598992059,Saint Thomas Health Svcs-TN,10398331
-350,350,george.dibu@ascension.org,,Physician,Physician,GDIBU,PHY,,1598992059,St. Vincent's HealthCare-FL,10400145
-351,351,ron.johnson1@ascension.org,,Physician,Physician,RJOHN195,PHY,,1073553608,Saint Thomas Health Svcs-TN,10400270
-352,352,guillermo.nava@ascension.org,,Physician,Physician,GNAVA008,PHY,,1083722524,Saint Thomas Health Svcs-TN,10403430
-353,353,sylvia.bosire@ascension.org,,Employee,Employee,SBOSIRE,BUS,,1164711909,Ascension Technologies,10406003
-354,354,darwish.naji@ascension.org,,Physician,Physician,DNAJI,PHY,,1164711909,St. Vincent's HealthCare-FL,10406119
-355,355,mary.nickowski@ascension.org,,Employee,Employee,MNICKOWS,NUR,,1821301920,St. Vincent's HealthCare-FL,10408167
-356,356,ramya.suryadevara@ascension.org,,Physician,Physician,RSURYADE,PHY,,1821301920,Saint Thomas Health Svcs-TN,10412188
-357,357,ezenwa.dike@ascension.org,,Employee,Employee,EDIKE,IS,,1376506337,Ascension Technologies,10412397
-358,358,maren.richards@ascension.org,,Employee,Employee,MRICH148,PHA,,1376506337,Saint Thomas Health Svcs-TN,10414062
-359,359,alyssa.booth@ascension.org,,Employee,Employee,ABOOT011,PHA,,1376506337,St. Vincent's HealthCare-FL,10416304
-360,360,daniel.gordon@ascension.org,,Physician,Physician,DGORD018,PHY,,1376506337,Saint Thomas Health Svcs-TN,10416806
-361,361,kimberly.baird@ascension.org,,Employee,Employee,KBAIR008,NUR,,1437449253,Saint Thomas Health Svcs-TN,10417471
-362,362,ricardo.lugo@ascension.org,,Physician,Physician,RLUGO002,PHY,,1437449253,Saint Thomas Health Svcs-TN,10421552
-363,363,daniel.kaiser@ascension.org,,Physician,Physician,DKAIS005,PHY,,1972777480,Saint Thomas Health Svcs-TN,10421900
-364,364,steven.standley@ascension.org,,Physician,Physician,SSTANDLE,PHY,,1558724971,Saint Thomas Health Svcs-TN,10422739
-365,365,shobana.iyer@ascension-external.org,,Contractor,Contractor,SIYER006,NUR,,1871955955,St. Vincent's HealthCare-FL,10424196
-366,366,jenny.hu@ascension-external.org,,Contractor,Contractor,JHU004,NUR,,1639531601,St. Vincent's HealthCare-FL,10424310
-367,367,jimmy.kerrigan@ascension.org,,Physician,Physician,JKERRIGA,PHY,,1831410646,Saint Thomas Health Svcs-TN,10425151
-368,368,kandi.kinder@ascension-external.org,,Contractor,Contractor,KKINDER,PHY,,1578795365,St. Vincent's HealthCare-FL,10425631
-369,369,saidy.harper@ascension-external.org,,Contractor,Contractor,SHARP018,PHY,,1417479460,St. Vincent's HealthCare-FL,10425646
-370,370,sara.dixon@ascension-external.org,,Contractor,Contractor,SDIXO026,NUR,,1134620131,St. Vincent's HealthCare-FL,10425681
-371,371,mark.stanley@ascension.org,,Physician,Physician,MSTAN026,PHY,,1427403088,Saint Thomas Health Svcs-TN,10426091
-372,372,doan.nguyen@ascension-external.org,,Contractor,Contractor,DNGUY053,PHS,,1306256938,St. Vincent's HealthCare-FL,10426282
-373,373,amreeta.singh@ascension-external.org,,Contractor,Contractor,ASING148,PHY,,1578882585,St. Vincent's HealthCare-FL,10426688
-374,374,vinay.garlapati@ascension.org,,Contractor,Contractor,VGARLAPA,PHY,,1508271206,St. Vincent's HealthCare-FL,10426759
-375,375,elizabeth.wonpat@ascension-external.org,,Contractor,Contractor,EWONPAT,PHY,,1952503369,St. Vincent's HealthCare-FL,10426832
-376,376,mithun.pattathan@ascension-external.org,,Contractor,Contractor,MPATTATH,PHY,,1538488895,St. Vincent's HealthCare-FL,10426999
-377,377,sasan.raissi@ascension.org,,Physician,Physician,SRAISSI,PHY,,1346537826,Saint Thomas Health Svcs-TN,10427008
-378,378,azadeh.raissi@ascension.org,,Physician,Physician,ARAISSI,PHY,,1134573249,Saint Thomas Health Svcs-TN,10427792
-379,379,julian.yang@ascension.org,,Employee,Employee,JYANG033,PHY,,1730362567,Saint Thomas Health Svcs-TN,10428729
-380,380,onyii.udeze@ascension.org,,Physician,Physician,SUDEZE,PHY,,1760836894,Saint Thomas Health Svcs-TN,10428800
-381,381,cindy.smith3@ascension.org,,Employee,Employee,CSMIT483,IS,,1477907921,Ascension Technologies,10429059
-382,382,sophie.zhao@ascension.org,,Physician,Physician,SZHAO,PHY,,1477907921,Saint Thomas Health Svcs-TN,10429984
-383,383,alana.james@ascension.org,,Physician,Physician,AJAME060,PHY,,1386098077,Saint Thomas Health Svcs-TN,10430663
-384,384,sashikanth.kodali@ascension.org,,Physician,Physician,SKODA004,PHY,,1598708257,Saint Thomas Health Svcs-TN,10431424
-385,385,nschlechter@ascension.org,,Employee,Employee,NSCHLECH,PHY,,1285600130,Saint Thomas Health Svcs-TN,10432947
-386,386,layla.kawaf@ascension-external.org,,Contractor,Contractor,LKAWAF,PHY,,1306229059,St. Vincent's HealthCare-FL,10433859
-387,387,alyson.long@ascension-external.org,,Contractor,Contractor,ALONG040,NUR,,1689683575,St. Vincent's HealthCare-FL,10434553
-388,388,gagan.singh@ascension.org,,Employee,Employee,GSING067,IS,,1336267533,Ascension System Office-MO,10462111
-389,389,hady.lichaa@ascension.org,,Physician,Physician,HLICH001,PHY,,1336267533,Saint Thomas Health Svcs-TN,10462420
-390,390,lindsay.green@ascension.org,,Physician,Physician,LGREE093,PHY,,1740546191,Saint Thomas Health Svcs-TN,10466773
-391,391,kimberly.mcphearson@ascension-external.org,,Contractor,Contractor,KMCPH011,NUR,,1396196937,St. Vincent's HealthCare-FL,10469026
-392,392,amy.grobstick@ascension-external.org,,Contractor,Contractor,AGROB001,NUR,,1881995140,St. Vincent's HealthCare-FL,10469028
-393,393,kim.szatkowski@ascension.org,,Employee,Employee,KSZATKOW,IS,,1497067235,Ascension Technologies,10469211
-394,394,samantha.evans1@ascension.org,,Employee,Employee,SMILL245,NUR,,1497067235,St. Vincent's HealthCare-FL,10470437
-395,395,cori.crutchfield@ascension.org,,Employee,Employee,CCRUT009,NUR,,1497067235,St. Vincent's HealthCare-FL,10470831
-396,396,brittany.kennedy@ascension.org,,Employee,Employee,BKENN020,NUR,,1497067235,St. Vincent's HealthCare-FL,10471137
-397,397,skip.walker@ascension.org,,Employee,Employee,FWALK009,IS,,1497067235,Ascension Technologies,10471201
-398,398,felicia.scales@ascension.org,,Physician,Physician,FSCALES,PHY,,1497067235,Saint Thomas Health Svcs-TN,10472048
-399,399,mark.kloker@ascension.org,,Employee,Employee,MKLOKER,PHS,,1922444363,St. Vincent's HealthCare-FL,10474612
-400,400,everald.walker@ascension.org,,Physician,Physician,EWALK041,PHY,,1922444363,Saint Thomas Health Svcs-TN,10483303
-401,401,cheryl.schultz1@ascension.org,,Employee,Employee,CSCHU073,NUR,,1881127074,Saint Thomas Health Svcs-TN,10483493
-402,402,deseree.prentice@ascension.org,,Physician,Physician,DPREN002,PHY,,1881127074,Saint Thomas Health Svcs-TN,10484386
-403,403,matthew.werder@ascension.org,,Employee,Employee,MWERDER,BUS,,1679838510,Ascension Technologies,10484498
-404,404,rohan.mandaliya@ascension.org,,Physician,Physician,RMANDALI,PHY,,1679838510,Saint Thomas Health Svcs-TN,10485460
-405,405,stacy.langley@ascension.org,,Employee,Employee,SLANG037,CLS,,1710272521,Ascension Technologies,10486403
-406,406,jenna.pasyanos@ascension.org,,Employee,Employee,JPASYANO,NUR,,1710272521,Saint Thomas Health Svcs-TN,10486764
-407,407,anna.waller@ascension.org,,Employee,Employee,AWALL088,NUR,,1710272521,Saint Thomas Health Svcs-TN,10487408
-408,408,dseval@ascension-external.org,,Contractor,Contractor,DSEVAL,PHY,,1710272521,St. Vincent's HealthCare-FL,10487433
-409,409,veena.palsikar@ascension.org,,Employee,Employee,VPALSIKA,IS,,1750791166,Ascension Technologies,10487612
-410,410,upate021@ascension-external.org,,Contractor,Contractor,UPATE021,PHY,,1750791166,St. Vincent's HealthCare-FL,10489710
-411,411,corey.wilson1@ascension.org,,Employee,Employee,CWILS188,NUR,,1285166629,St. Vincent's HealthCare-FL,10489952
-412,412,damilola.phillips@ascension.org,,Physician,Physician,DPHIL049,PHY,,1285166629,Saint Thomas Health Svcs-TN,10490610
-413,413,elizabeth.townsley@ascension.org,,Physician,Physician,ETOWNSLE,PHY,,1235583881,Saint Thomas Health Svcs-TN,10491454
-414,414,cassandra.doucet@ascension.org,,Physician,Physician,CDOUC001,PHY,,1962934653,Saint Thomas Health Svcs-TN,10491924
-415,415,joshua.ramsey@ascension.org,,Physician,Physician,JRAMS031,PHY,,1114311461,Saint Thomas Health Svcs-TN,10492042
-416,416,egilb013@ascension-external.org,,Contractor,Contractor,EGILB013,PHY,,1649627928,St. Vincent's HealthCare-FL,10492197
-417,417,chris.pasvantis@ascension.org,,Physician,Physician,CPASVANT,PHY,,1316471071,Saint Thomas Health Svcs-TN,10493176
-418,418,amanda.goethals@ascension.org,,Physician,Physician,AGOETHAL,PHY,,1255872933,Saint Thomas Health Svcs-TN,10493357
-419,419,mary.gadalla@ascension.org,,Physician,Physician,MGADALLA,PHY,,1720514763,Saint Thomas Health Svcs-TN,10493359
-420,420,jessica.crowder@ascension.org,,Physician,Physician,JCROW020,PHY,,1942797907,Saint Thomas Health Svcs-TN,10493416
-421,421,ahmad.faour@ascension.org,,Physician,Physician,AFAOU001,PHY,,1922596410,Saint Thomas Health Svcs-TN,10493417
-422,422,peter.dunaway@ascension.org,,Physician,Physician,PDUNAWAY,PHY,,1811055221,Saint Thomas Health Svcs-TN,10493515
-423,423,ogonna.eze@ascension.org,,Physician,Physician,OEZE,PHY,,1932631421,Saint Thomas Health Svcs-TN,10493600
-424,424,julie.booth@ascension.org,,Employee,Employee,JBOOT013,NUR,,1245217603,St. Vincent's HealthCare-FL,10493754
-425,425,adeeb.ahmed@ascension.org,,Physician,Physician,AAHME074,PHY,,1245217603,Saint Thomas Health Svcs-TN,10494147
-426,426,timothy.thayer@ascension.org,,Physician,Physician,TTHAY001,PHY,,1578959813,Saint Thomas Health Svcs-TN,10494497
-427,427,nancy.davison@ascension-external.org,,Contractor,Contractor,NDAVISON,PHY,,1689105314,St. Vincent's HealthCare-FL,10495071
-428,428,christopher.colburn@ascension.org,,Physician,Physician,CCOLBURN,PHY,,1518958115,Saint Thomas Health Svcs-TN,10495164
-429,429,nicolas.ludi@ascension.org,,Physician,Physician,NLUDI,PHY,,1255865861,Saint Thomas Health Svcs-TN,10495981
-430,430,priya.chaturvedi@ascension.org,,Physician,Physician,PCHATURV,PHY,,1922532456,Saint Thomas Health Svcs-TN,10496099
-431,431,meena.demetrios@ascension.org,,Physician,Physician,MDEMETRI,PHY,,1720342900,St. Vincent's HealthCare-FL,10496544
-432,432,abednego.chibungu@ascension-external.org,,Contractor,Contractor,ACHIBUNG,PHY,,1164739272,St. Vincent's HealthCare-FL,10497356
-433,433,wanda.williams5@ascension.org,,Physician,Physician,WWILL051,PHY,,1720212350,Saint Thomas Health Svcs-TN,10498686
-434,434,akram.shibani@ascension.org,,Physician,Physician,ASHIBANI,PHY,,1477784247,St. Vincent's HealthCare-FL,10501726
-435,435,ashley.van.allen@ascension.org,,Employee,Employee,AVANALL,PHA,,1659786945,Ascension System Office-MO,10510109
-436,436,jay.patel2@ascension.org,,Physician,Physician,JPATE108,PHY,,1659786945,Saint Thomas Health Svcs-TN,10511489
-437,437,krystal.halligan@ascension.org,,Employee,Employee,KHALLIGA,IS,,1952307233,Ascension Technologies,10518156
-438,438,asad.aboud@ascension.org,,Physician,Physician,AALABOU,PHY,,1952307233,Saint Thomas Health Svcs-TN,10519097
-439,439,tracey.doering@ascension.org,,Physician,Physician,TDOERING,PHY,,1952307233,Saint Thomas Health Svcs-TN,10521710
-440,440,timir.paul@ascension.org,,Physician,Physician,TPAUL013,PHY,,1336337195,Saint Thomas Health Svcs-TN,10521852
-441,441,mitesh.patel3@ascension.org,,Employee,Employee,MPATE184,CLS,,1629458989,Ascension System Office-MO,10523261
-442,442,haren.patel@ascension.org,,Physician,Physician,HPATE099,PHY,,1629458989,Saint Thomas Health Svcs-TN,10525911
-443,443,kylie.swearingen@ascension.org,,Physician,Physician,KSWEA007,PHY,,1912325283,Saint Thomas Health Svcs-TN,10528592
-444,444,marybeth.rottman@ascension.org,,Employee,Employee,MROTT002,PHA,,1164752499,Ascension System Office-MO,10530873
-445,445,walid.saad@ascension.org,,Physician,Physician,WSAAD,PHY,,1164752499,Saint Thomas Health Svcs-TN,10530927
-446,446,jennifer.burba@ascension.org,,Physician,Physician,JBURBA,PHY,,1861854168,Saint Thomas Health Svcs-TN,10531580
-447,447,daniel.arteaga@ascension.org,,Physician,Physician,DARTE004,PHY,,1861854168,Saint Thomas Health Svcs-TN,10531789
-448,448,harish.krishnamoorthi@ascension.org,,Physician,Physician,HKRIS004,PHY,,1881005247,Saint Thomas Health Svcs-TN,10533060
-449,449,alicia.stallings@ascension.org,,Physician,Physician,ASTAL012,PHY,,1003340985,Saint Thomas Health Svcs-TN,10534704
-450,450,ivan.furtado@ascension.org,,Physician,Physician,IFURTADO,PHY,,1336636968,Saint Thomas Health Svcs-TN,10535176
-451,451,ni.aung@ascension.org,,Physician,Physician,NAUNG003,PHY,,1275065120,Saint Thomas Health Svcs-TN,10536395
-452,452,silas.trumbo@ascension.org,,Physician,Physician,STRUMBO,PHY,,1356878912,Saint Thomas Health Svcs-TN,10538278
-453,453,james.mcpike@ascension.org,,Physician,Physician,JMCPIKE,PHY,,1700972015,Saint Thomas Health Svcs-TN,10540627
-454,454,rachel.obeirne@ascension.org,,Physician,Physician,ROBEI001,PHY,,1417441460,Saint Thomas Health Svcs-TN,10542675
-455,455,robert.rodriguez1@ascension.org,,Physician,Physician,RRODR087,PHY,,1154775708,Saint Thomas Health Svcs-TN,10544153
-456,456,jamal.lattimore@ascension.org,,Physician,Physician,JLATT002,PHY,,1366949786,Saint Thomas Health Svcs-TN,10548897
-457,457,laura.buchanan@ascension-external.org,,Contractor,Contractor,LBUCH018,IS,,1366446171,Ascension Technologies,10555677
-458,458,stephen.capizzi@ascension.org,,Contractor,Contractor,SCAPIZZI,PHY,,1366446171,Saint Thomas Health Svcs-TN,10571522
-459,459,toby.robinson@ascension-external.org,,Contractor,Contractor,TROBI129,IS,,1871908939,Ascension Technologies,10595061
-460,460,karim.mahmoud@ascension.org,,Physician,Physician,KMAHM001,PHY,,1871908939,Saint Thomas Health Svcs-TN,10622026
-461,461,aiham.al_ashab@ascension-external.org,,Physician,Physician,aalasha,PHY,,1619401239,Saint Thomas Health Svcs-TN,aalasha
-462,462,abdul_rasheed.asharaf@ascension-external.org,,Physician,Physician,aasha001,PHY,,1619401239,Saint Thomas Health Svcs-TN,aasharaf
-463,463,aaron.eskind@ascension.org,,Physician,Physician,AESKIND,PHY,,1619401239,Saint Thomas Health Svcs-TN,aeskind
-464,464,amye.mitchell@ascension.org,,Employee,Employee,AMITC104,NUR,,1164426979,Saint Thomas Health Svcs-TN,amitc104
-465,465,anugya.poudel-chataut@ascension-external.org,,Physician,Physician,apoudelc,PHY,,1164426979,Saint Thomas Health Svcs-TN,apoudelc
-466,466,amber.sarwar@ascension-external.org,,Physician,Physician,asarwar,PHY,,1164426979,Saint Thomas Health Svcs-TN,asarwar
-467,467,cerner.autotest@ascension-external.org,,Physician,Physician,autotest,PHY,,1164426979,Saint Thomas Health Svcs-TN,autotest
-468,468,alexander.zimilevich@ascension-external.org,,Physician,Physician,azimilev,PHY,,1164426979,Saint Thomas Health Svcs-TN,azimilev
-469,469,chace.carpenter@ascension-external.org,,Physician,Physician,ccarp003,PHY,,1164426979,Saint Thomas Health Svcs-TN,bmitc008
-470,470,chace.carpenter@ascension-external.org,,Physician,Physician,ccarp003,PHY,,1164426979,Saint Thomas Health Svcs-TN,ccarp003
-471,471,catherine.kerns@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,ckerns,PHY,,1093912487,Saint Thomas Health Svcs-TN,ckerns
-472,472,carneisha.myles@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,cmyle001,PHY,,1093912487,Saint Thomas Health Svcs-TN,cmyle001
-473,473,cynthia.rizk@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,crizk002,PHY,,1093912487,Saint Thomas Health Svcs-TN,crizk002
-474,474,cstud001@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,cstud001,PHY,,1093912487,Saint Thomas Health Svcs-TN,cstud001
-475,475,dawn.albury@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dalbu002,PHY,,1093912487,Saint Thomas Health Svcs-TN,dalbu002
-476,476,doris.koduah@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dkoduah,PHY,,1093912487,Saint Thomas Health Svcs-TN,dkoduah
-477,477,dkoeh002@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,dkoeh002,PHY,,1093912487,Saint Thomas Health Svcs-TN,dkoeh002
-478,478,erik.barquist@ascension-external.org,,Non-HR Contractor,Non-HR Contractor,EBarquis,PHY,,1093912487,Saint Thomas Health Svcs-TN,EBarquis
-479,479,eunice.binyanya@ascension-external.org,,Physician,Physician,ebinyany,PHY,,1093912487,Saint Thomas Health Svcs-TN,ebinyany
-480,480,eyazigi@jaxhealth.com,,Physician,Physician,eyazigi,PHY,,1093912487,Saint Thomas Health Svcs-TN,eyazigi
-481,481,hiba.ghani@ascension-external.org,,Physician,Physician,hghani,PHY,,1093912487,Saint Thomas Health Svcs-TN,hghani
-482,482,happy.sadiek@ascension-external.org,,Physician,Physician,hsadiek,PHY,,1093912487,Saint Thomas Health Svcs-TN,hsadiek
-483,483,john.chauvin@ascension-external.org,,Physician,Physician,jchauvin,PHY,,1093912487,Saint Thomas Health Svcs-TN,jchauvin
-484,484,anjalie.joshi@ascension.org,,Physician,Physician,AJOSH026,PHY,,1093912487,Saint Thomas Health Svcs-TN,jjoshi
-485,485,jonatan.valdez@ascension-external.org,,Employee,Employee,jvald011,NUR,,1336411313,Saint Thomas Health Svcs-TN,jvald011
-486,486,kelli.lamb@ascension-external.org,,Employee,Employee,khopp004,NUR,,1336411313,Saint Thomas Health Svcs-TN,khopp004
-487,487,khristine.rivera@ascension-external.org,,Employee,Employee,krive013,NUR,,1336411313,Saint Thomas Health Svcs-TN,krive013
-488,488,leor.azoulay@ascension-external.org,,Employee,Employee,lazoulax,NUR,,1336411313,Saint Thomas Health Svcs-TN,lazoulax
-489,489,luis.dulin@ascension.org,,Employee,Employee,LDULI003,NUR,,1336411313,Saint Thomas Health Svcs-TN,lduli003
-490,490,murshid.al-awady@ascension-external.org,,Physician,Physician,malawady,NUR,,1649333931,Saint Thomas Health Svcs-TN,malawady
-491,491,michael.byrd@ascension-external.org,,Physician,Physician,mgovani,NUR,,1649333931,Saint Thomas Health Svcs-TN,mbyrd047
-492,492,maulik.govani@ascension-external.org,,Physician,Physician,mgovani,NUR,,1649333931,Saint Thomas Health Svcs-TN,mgovani
-493,493,marius.laurinaitis@ascension-external.org,,Physician,Physician,mlaurina,NUR,,1649333931,Saint Thomas Health Svcs-TN,mlaurina
-494,494,michael.lomis@ascension.org,,Physician,Physician,mlomis,NUR,,1649333931,Saint Thomas Health Svcs-TN,mlomis
-495,495,min.zimilevich@ascension-external.org,,Employee,Employee,mzimi003,NUR,,1942877618,Saint Thomas Health Svcs-TN,mzimilev
-496,496,nader.daoud@ascension-external.org,,Employee,Employee,ndaou001,NUR,,1942877618,Saint Thomas Health Svcs-TN,ndaou001
-497,497,neonila.zhukivskyy@ascension-external.org,,Employee,Employee,nzhukivs,NUR,,1942877618,Saint Thomas Health Svcs-TN,nzhukivs
-498,498,robert.penrod@ascension-external.org,,Employee,Employee,rpenrod,NUR,,1942877618,Saint Thomas Health Svcs-TN,rpenrod
-499,499,rupinder.sandhu@ascension-external.org,,Employee,Employee,rsand047,NUR,,1942877618,Saint Thomas Health Svcs-TN,rsand047
-500,500,raghava.vadde@ascension-external.org,,Employee,Employee,rvadde,NUR,,1942877618,Saint Thomas Health Svcs-TN,rvadde
-501,501,sheila.bagala@ascension.org,,Employee,Employee,SBAGALA,NUR,,1942877618,Saint Thomas Health Svcs-TN,sbagala
-502,502,shashi.chetan@ascension-external.org,,,,schetan,,,,,schetan
-503,503,sura.jermanus@ascension-external.org,,,,sjermanu,,,,,sjermanu
-504,504,sandra.rivera@ascension-external.org,,,,srive031,,,,,srive031
-505,505,treva.jones@ascension-external.org,,,,tjone141,,,,,tjone141
-506,506,terance.lamb@ascension-external.org,,,,tlamb008,,,,,tlamb008
-507,507,tifinni.romero@ascension-external.org,,,,trome003,,,,,trome003
-508,508,vikram.behera@ascension-external.org,,,,vbehera,,,,,vbehera
-509,509,veena.palsikar@ascension-external.org,,,,vpals019,,,,,vpals019
-510,510,welena.qazizada@ascension-external.org,,,,wqazi002,,,,,wqazi002
-511,511,rob.spiegel@ascension-external.org,,,,WSPIEGEL,,,,,WSPIEGEL
-512,512,xiomara.velazco-vasquez@ascension-external.org,,,,xvelazco,,,,,xvelazco
+,Unnamed: 0,NTAccountName,Email,employeenumber,symphonyemployeetype,PeopleSoft Type,USERNAME,Cerner Role,Care Studio Role,NPI,Ministry
+1,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+2,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+3,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+4,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+5,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+6,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+7,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+8,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+9,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+10,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+11,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+12,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+13,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+14,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+15,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+16,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+17,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+18,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+19,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+20,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+21,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+22,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+23,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+24,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+25,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+26,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+27,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+28,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+29,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+30,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+31,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+32,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+33,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+34,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+35,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+36,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+37,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+38,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+39,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+40,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+41,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+42,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+43,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+44,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+45,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+46,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+47,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+48,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+49,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+50,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+51,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+52,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+53,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+54,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+55,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+56,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+57,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+58,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+59,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+60,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+61,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+62,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+63,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+64,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+65,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+66,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+67,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+68,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+69,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+70,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+71,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+72,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+73,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+74,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+75,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+76,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+77,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+78,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+79,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+80,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+81,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+82,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+83,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+84,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+85,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+86,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+87,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+88,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+89,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+90,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+91,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+92,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+93,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+94,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+95,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+96,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+97,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+98,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+99,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+100,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+101,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+102,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+103,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+104,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+105,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+106,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+107,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+108,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+109,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+110,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+111,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+112,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+113,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+114,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+115,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+116,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+117,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+118,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+119,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+120,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+121,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+122,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+123,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+124,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+125,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+126,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+127,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+128,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+129,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+130,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+131,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+132,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+133,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+134,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+135,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+136,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+137,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+138,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+139,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+140,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+141,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+142,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+143,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+144,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+145,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+146,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+147,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+148,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+149,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+150,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+151,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+152,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+153,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+154,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+155,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+156,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+157,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+158,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+159,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+160,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+161,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+162,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+163,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+164,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+165,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+166,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+167,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+168,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+169,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+170,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+171,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+172,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+173,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+174,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+175,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+176,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+177,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+178,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+179,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+180,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+181,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+182,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+183,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+184,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+185,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+186,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+187,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+188,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+189,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+190,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+191,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+192,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+193,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+194,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+195,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+196,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+197,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+198,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+199,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+200,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+201,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+202,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+203,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+204,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+205,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+206,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+207,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+208,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+209,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+210,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+211,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+212,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS,TXAUS
+213,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+214,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+215,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+216,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+217,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+218,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+219,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+220,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+221,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+222,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+223,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+224,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+225,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+226,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+227,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+228,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+229,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+230,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+231,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+232,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+233,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+234,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+235,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+236,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+237,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+238,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+239,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+240,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+241,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+242,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+243,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+244,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+245,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+246,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+247,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+248,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+249,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+250,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+251,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+252,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+253,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+254,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+255,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+256,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+257,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+258,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+259,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+260,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+261,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+262,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+263,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+264,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+265,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+266,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+267,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+268,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+269,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+270,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+271,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+272,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+273,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+274,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+275,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+276,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+277,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+278,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+279,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+280,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+281,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+282,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+283,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+284,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+285,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+286,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+287,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+288,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+289,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+290,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+291,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+292,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+293,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+294,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+295,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+296,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+297,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+298,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+299,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+300,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+301,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+302,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+303,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+304,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+305,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+306,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+307,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+308,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+309,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+310,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+311,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+312,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+313,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+314,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+315,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+316,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+317,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+318,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+319,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+320,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+321,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+322,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+323,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+324,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+325,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+326,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+327,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+328,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+329,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+330,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+331,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+332,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+333,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+334,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+335,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+336,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+337,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+338,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+339,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+340,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+341,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+342,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+343,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+344,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+345,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+346,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+347,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+348,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+349,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+350,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+351,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+352,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+353,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+354,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+355,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+356,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+357,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+358,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+359,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+360,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+361,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+362,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+363,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+364,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+365,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+366,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+367,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+368,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+369,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+370,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+371,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+372,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+373,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+374,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+375,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+376,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+377,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+378,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+379,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+380,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+381,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+382,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+383,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+384,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+385,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+386,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+387,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+388,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+389,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+390,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+391,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+392,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+393,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+394,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+395,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+396,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+397,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+398,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+399,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+400,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+401,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+402,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+403,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+404,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+405,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+406,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+407,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+408,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+409,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+410,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+411,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+412,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+413,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+414,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+415,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+416,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+417,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+418,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+419,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+420,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+421,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+422,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC,FLJAC
+423,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+424,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+425,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+426,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+427,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+428,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+429,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+430,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+431,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+432,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+433,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+434,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+435,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+436,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+437,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+438,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+439,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+440,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+441,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+442,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+443,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL,ALL
+444,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+445,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+446,446,,aiham.al_ashab@ascension-external.org,,TNNAS,TNNAS,aalasha,TNNAS,,TNNAS,TNNAS
+447,447,,abdul_rasheed.asharaf@ascension-external.org,,TNNAS,TNNAS,aasha001,TNNAS,,TNNAS,TNNAS
+448,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+449,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+450,450,,anugya.poudel-chataut@ascension-external.org,,TNNAS,TNNAS,apoudelc,TNNAS,,TNNAS,TNNAS
+451,451,,amber.sarwar@ascension-external.org,,TNNAS,TNNAS,asarwar,TNNAS,,TNNAS,TNNAS
+452,452,,alexander.zimilevich@ascension-external.org,,TNNAS,TNNAS,azimilev,TNNAS,,TNNAS,TNNAS
+453,453,,TNNAS,,TNNAS,TNNAS,TNNAS,TNNAS,,TNNAS,TNNAS
+454,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+455,455,,catherine.kerns@ascension-external.org,,,,ckerns,,,,NULL
+456,456,,carneisha.myles@ascension-external.org,,,,cmyle001,,,,NULL
+457,457,,cynthia.rizk@ascension-external.org,,,,crizk002,,,,NULL
+458,458,,cstud001@ascension-external.org,,TNNAS,TNNAS,cstud001,TNNAS,,TNNAS,TNNAS
+459,459,,dawn.albury@ascension-external.org,,TNNAS,TNNAS,dalbu002,TNNAS,,TNNAS,TNNAS
+460,460,,doris.koduah@ascension-external.org,,TNNAS,TNNAS,dkoduah,TNNAS,,TNNAS,TNNAS
+461,461,,dkoeh002@ascension-external.org,,TNNAS,TNNAS,dkoeh002,TNNAS,,TNNAS,TNNAS
+462,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+463,463,,eunice.binyanya@ascension-external.org,,,,ebinyany,,,,NULL
+464,464,,eyazigi@jaxhealth.com,,TNNAS,TNNAS,eyazigi,TNNAS,,TNNAS,TNNAS
+465,465,,hiba.ghani@ascension-external.org,,TNNAS,TNNAS,hghani,TNNAS,,TNNAS,TNNAS
+466,466,,happy.sadiek@ascension-external.org,,TNNAS,TNNAS,hsadiek,TNNAS,,TNNAS,TNNAS
+467,467,,john.chauvin@ascension-external.org,,TNNAS,TNNAS,jchauvin,TNNAS,,TNNAS,TNNAS
+468,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+469,469,,jonatan.valdez@ascension-external.org,,TNNAS,TNNAS,jvald011,TNNAS,,TNNAS,TNNAS
+470,470,,kelli.lamb@ascension-external.org,,TNNAS,TNNAS,khopp004,TNNAS,,TNNAS,TNNAS
+471,471,,leor.azoulay@ascension-external.org,,TNNAS,TNNAS,lazoulax,TNNAS,,TNNAS,TNNAS
+472,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+473,473,,murshid.al-awady@ascension-external.org,,TNNAS,TNNAS,malawady,TNNAS,,TNNAS,TNNAS
+474,474,,maulik.govani@ascension-external.org,,TNNAS,TNNAS,mgovani,TNNAS,,TNNAS,TNNAS
+475,475,,marius.laurinaitis@ascension-external.org,,TNNAS,TNNAS,mlaurina,TNNAS,,TNNAS,TNNAS
+476,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+477,477,,min.zimilevich@ascension-external.org,,,,mzimi003,,,,NULL
+478,478,,nader.daoud@ascension-external.org,,,,ndaou001,,,,NULL
+479,479,,neonila.zhukivskyy@ascension-external.org,,TNNAS,TNNAS,nzhukivs,TNNAS,,TNNAS,TNNAS
+480,480,,robert.penrod@ascension-external.org,,TNNAS,TNNAS,rpenrod,TNNAS,,TNNAS,TNNAS
+481,481,,rupinder.sandhu@ascension-external.org,,TNNAS,TNNAS,rsand047,TNNAS,,TNNAS,TNNAS
+482,482,,raghava.vadde@ascension-external.org,,TNNAS,TNNAS,rvadde,TNNAS,,TNNAS,TNNAS
+483,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS,TNNAS
+484,484,,shashi.chetan@ascension-external.org,,,,schetan,,,,NULL
+485,485,,sura.jermanus@ascension-external.org,,,,sjermanu,,,,NULL
+486,486,,sandra.rivera@ascension-external.org,,,,srive031,,,,NULL
+487,487,,treva.jones@ascension-external.org,,,,tjone141,,,,NULL
+488,488,,terance.lamb@ascension-external.org,,,,tlamb008,,,,NULL
+489,489,,tifinni.romero@ascension-external.org,,,,trome003,,,,NULL
+490,490,,vikram.behera@ascension-external.org,,,,vbehera,,,,NULL
+491,491,,welena.qazizada@ascension-external.org,,,,wqazi002,,,,NULL
+492,492,,rob.spiegel@ascension-external.org,,,,WSPIEGEL,,,,NULL
+493,493,,xiomara.velazco-vasquez@ascension-external.org,,,,xvelazco,,,,NULL

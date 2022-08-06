@@ -15,6 +15,8 @@ from flask_cors import CORS
 
 UPLOADED_COLUMNS = ['Email','Job Family','Ministry','Network (Logon) ID','NPI Number','Type','Username']
 PROVISIONING_WORKSHEETS = ['All Users', 'New Users', 'Deprovisioned Users', 'Source File']
+LOCATION_MAPPINGS= {"Saint Thomas Health Svcs-TN":"TNNAS", "St. Vincent's HealthCare-FL":'FLJAC', "Seton Family of Hospitals-TX":'TXAUS'}
+LOCATION_MAPPINGS_ALL =["Ascension Technologies","Borgess Health-MI","Columbia Health System","St. John Health-MI","St. Joseph Health System-MI","Ascension System Office-MO","Sacred Heart Health System-FL", "St. Vincent's Health System-AL"]
 
 app = Flask(__name__)
 CORS(app)
@@ -210,6 +212,7 @@ def dataframe_not_empty(dataframe):
 
 
 def validate_uploaded_data(uploaded_dataframe):
+    print('in validate_uploaded_data')
     if dataframe_not_empty(uploaded_dataframe):
         if dataframe_has_correct_columns(uploaded_dataframe):
             return create_response('Data is valid', 200)
@@ -243,8 +246,8 @@ def create_new_provisioning_dataframe(uploaded_dataframe):
     provisioning_dataframe['PeopleSoft Type'] = provisioning_dataframe['symphonyemployeetype']
     provisioning_dataframe.index = np.arange(1, len(provisioning_dataframe) + 1)
     provisioning_dataframe['Unnamed: 0'] = provisioning_dataframe.index
-    provisioning_dataframe[['employeenumber','Care Studio Role']] = ""
-    return provisioning_dataframe[['Unnamed: 0','Email','employeenumber','symphonyemployeetype','PeopleSoft Type','USERNAME','Cerner Role','Care Studio Role','NPI','Ministry','NTAccountName']]
+    provisioning_dataframe[['employeenumber','NTAccountName','Care Studio Role']] = ""
+    return provisioning_dataframe[['Unnamed: 0','NTAccountName','Email','employeenumber','symphonyemployeetype','PeopleSoft Type','USERNAME','Cerner Role','Care Studio Role','NPI','Ministry',]]
 
 def create_new_provisioning_dataframes(new_dataframe, current_dataframe):
     all_user_dataframe = create_new_provisioning_dataframe(new_dataframe)
@@ -265,6 +268,7 @@ def create_blank_dataframe():
 def create_new_spreadsheet(user_dataframe):
     current_dataframe = create_blank_dataframe()
     provisioning_dataframes = create_new_provisioning_dataframes(user_dataframe,current_dataframe)
+    provisioning_dataframes['all'] = map_locations(current_dataframe)
     response = write_new_provisioning_files(provisioning_dataframes)
     return response
 
@@ -274,7 +278,7 @@ def get_deprovisioned_users(new_dataframe,current_dataframe):
     return current_dataframe[~current_dataframe['NTAccountName'].isin(list(new_dataframe['Username']))]
 
 # current_dataframe['NTAccountName] = new_dataframe['Username']
-def get_new_users(new_dataframe, current_dataframe):
+def get_new_users(new_dataframe, current_dataframe):                                                                     
     return new_dataframe[~new_dataframe['Username'].isin(list(current_dataframe['NTAccountName']))]
 
 def get_current_user_dataframe():
@@ -319,11 +323,36 @@ def write_new_provisioning_files(provisioning_dataframes):
 def update_blank_data_from_current_spreadsheet(new_dataframe, current_dataframe):
     return new_dataframe.update(current_dataframe,overwrite=False)
 
+
+def map_null_locations(current_dataframe):
+    null_ministries = current_dataframe['Ministry'].fillna('NULL')
+    current_dataframe.update(null_ministries)
+    return current_dataframe
+
+
+def map_select_locations(current_dataframe):
+    for key in LOCATION_MAPPINGS:
+        current_dataframe.loc[current_dataframe['Ministry'] == key] = LOCATION_MAPPINGS[key]
+    return current_dataframe
+
+def map_all_locations(current_dataframe):
+    current_dataframe.loc[current_dataframe['Ministry'].isin(LOCATION_MAPPINGS_ALL)] = 'ALL'
+    return current_dataframe
+
+
+def map_locations(current_dataframe):
+    current_dataframe = map_null_locations(current_dataframe)
+    current_dataframe = map_select_locations(current_dataframe)
+    current_dataframe = map_all_locations(current_dataframe)
+    return current_dataframe
+
+
 def update_exisiting_spreadsheet(new_user_dataframe):
     current_user_dataframe = get_current_user_dataframe()
     if current_user_dataframe_is_valid(current_user_dataframe):
         provisioning_dataframes = create_new_provisioning_dataframes(new_user_dataframe,current_user_dataframe)
         update_blank_data_from_current_spreadsheet(provisioning_dataframes['all'], current_user_dataframe)
+        provisioning_dataframes['all']= map_locations(provisioning_dataframes['all'])
         provisioning_dataframes['all'].to_csv(os.path.join(UPDATED_FILES_FOLDER, 'CSProvisioning.csv'))
         response = write_new_provisioning_files(provisioning_dataframes)
         return response
@@ -394,6 +423,8 @@ def process_spreadsheet_data():
 
 @app.route('/provisioningCSV', methods=['GET'])
 def getProvisioningCSV():
+    print('in getprovisioning')
+    print('updated folder: ', UPDATED_FILES_FOLDER)
     return send_from_directory(UPDATED_FILES_FOLDER,'CSProvisioning.csv',as_attachment=True)
 
 @app.route('/provisioningExcel', methods=['GET'])
