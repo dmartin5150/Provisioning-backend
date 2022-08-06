@@ -268,7 +268,7 @@ def create_blank_dataframe():
 def create_new_spreadsheet(user_dataframe):
     current_dataframe = create_blank_dataframe()
     provisioning_dataframes = create_new_provisioning_dataframes(user_dataframe,current_dataframe)
-    provisioning_dataframes['all'] = map_locations(current_dataframe)
+    provisioning_dataframes['all'] = map_locations(provisioning_dataframes['all'])
     response = write_new_provisioning_files(provisioning_dataframes)
     return response
 
@@ -332,11 +332,11 @@ def map_null_locations(current_dataframe):
 
 def map_select_locations(current_dataframe):
     for key in LOCATION_MAPPINGS:
-        current_dataframe.loc[current_dataframe['Ministry'] == key] = LOCATION_MAPPINGS[key]
+        current_dataframe['Ministry'].loc[current_dataframe['Ministry'] == key] = LOCATION_MAPPINGS[key]
     return current_dataframe
 
 def map_all_locations(current_dataframe):
-    current_dataframe.loc[current_dataframe['Ministry'].isin(LOCATION_MAPPINGS_ALL)] = 'ALL'
+    current_dataframe['Ministry'].loc[current_dataframe['Ministry'].isin(LOCATION_MAPPINGS_ALL)] = 'ALL'
     return current_dataframe
 
 
@@ -351,6 +351,7 @@ def update_exisiting_spreadsheet(new_user_dataframe):
     current_user_dataframe = get_current_user_dataframe()
     if current_user_dataframe_is_valid(current_user_dataframe):
         provisioning_dataframes = create_new_provisioning_dataframes(new_user_dataframe,current_user_dataframe)
+        print('PROVISIONING Size', provisioning_dataframes['all'].shape[0])
         update_blank_data_from_current_spreadsheet(provisioning_dataframes['all'], current_user_dataframe)
         provisioning_dataframes['all']= map_locations(provisioning_dataframes['all'])
         provisioning_dataframes['all'].to_csv(os.path.join(UPDATED_FILES_FOLDER, 'CSProvisioning.csv'))
