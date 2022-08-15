@@ -229,6 +229,8 @@ def upload_form():
 def get_dataframe(folder, file_name):
     src = app.config[folder]
     file = os.path.join(src, file_name)
+    dataframe = pd.read_csv(file)
+    dataframe.index = np.arange(1, len(dataframe) + 1)
     return pd.read_csv(file)
 
 
@@ -244,10 +246,10 @@ def create_new_provisioning_dataframe(uploaded_dataframe):
     initial_input = uploaded_dataframe[['Username','Email','Type','Network (Logon) ID','Job Family','NPI Number','Ministry']]
     provisioning_dataframe = initial_input.rename(columns={'Username': 'NTAccountName','Type':'symphonyemployeetype','Network (Logon) ID':'USERNAME','Job Family':'Cerner Role','NPI Number':'NPI'})
     provisioning_dataframe['PeopleSoft Type'] = provisioning_dataframe['symphonyemployeetype']
-    provisioning_dataframe.index = np.arange(1, len(provisioning_dataframe) + 1)
+    # provisioning_dataframe.index = np.arange(1, len(provisioning_dataframe) + 1)
     provisioning_dataframe['Unnamed: 0'] = provisioning_dataframe.index
-    provisioning_dataframe[['employeenumber','NTAccountName','Care Studio Role']] = ""
-    return provisioning_dataframe[['Unnamed: 0','NTAccountName','Email','employeenumber','symphonyemployeetype','PeopleSoft Type','USERNAME','Cerner Role','Care Studio Role','NPI','Ministry',]]
+    provisioning_dataframe[['employeenumber','NTAccountName','CS Role']] = ""
+    return provisioning_dataframe[['Unnamed: 0','NTAccountName','Email','employeenumber','symphonyemployeetype','PeopleSoft Type','USERNAME','Cerner Role','CS Role','NPI','Ministry',]]
 
 def create_new_provisioning_dataframes(new_dataframe, current_dataframe):
     all_user_dataframe = create_new_provisioning_dataframe(new_dataframe)
@@ -269,6 +271,7 @@ def create_new_spreadsheet(user_dataframe):
     current_dataframe = create_blank_dataframe()
     provisioning_dataframes = create_new_provisioning_dataframes(user_dataframe,current_dataframe)
     provisioning_dataframes['all'] = map_locations(provisioning_dataframes['all'])
+    provisioning_dataframes['all'] = format_first_column(provisioning_dataframes['all'])
     response = write_new_provisioning_files(provisioning_dataframes)
     return response
 
@@ -347,6 +350,11 @@ def map_locations(current_dataframe):
     return current_dataframe
 
 
+def format_first_column(current_dataframe):
+    updated_column = current_dataframe['Unnamed: 0'].apply(lambda x: x+1)
+    current_dataframe['Unnamed: 0'] = updated_column
+    return current_dataframe
+
 def update_exisiting_spreadsheet(new_user_dataframe):
     current_user_dataframe = get_current_user_dataframe()
     if current_user_dataframe_is_valid(current_user_dataframe):
@@ -354,6 +362,7 @@ def update_exisiting_spreadsheet(new_user_dataframe):
         print('PROVISIONING Size', provisioning_dataframes['all'].shape[0])
         update_blank_data_from_current_spreadsheet(provisioning_dataframes['all'], current_user_dataframe)
         provisioning_dataframes['all']= map_locations(provisioning_dataframes['all'])
+        provisioning_dataframes['all'] = format_first_column(provisioning_dataframes['all'])
         provisioning_dataframes['all'].to_csv(os.path.join(UPDATED_FILES_FOLDER, 'CSProvisioning.csv'))
         response = write_new_provisioning_files(provisioning_dataframes)
         return response

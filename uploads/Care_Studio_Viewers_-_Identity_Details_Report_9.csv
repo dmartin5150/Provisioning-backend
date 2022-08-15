@@ -1,4 +1,4 @@
-,Creator,,,Scheduler,,,,,Creation Date,,,7/31/22 10:25 AM,,,
+,Creator,,,Scheduler,,,,,Creation Date,,,8/9/22 10:25 AM,,,
 Display Name,,Email,First Name,,Jobcode,Job Family,Last Name,Location Description,,Ministry,Network (Logon) ID,,NPI Number,Type,Username
 "Martin, David T.",,david.martin6@ascension.org,David,,371220,IS,Martin MD,FL - Pensacola - Offsite,,Ascension System Office-MO,DMART011,,1326046244,Employee,10003977
 "Parker, Sean S.",,sean.parker@ascension.org,Sean,,802300,NUS,Parker,St Thomas Midtown Hospital,,Saint Thomas Health Svcs-TN,SPARK004,,,Employee,10008537
@@ -339,7 +339,7 @@ Display Name,Email,First Name,Jobcode,Job Family,Last Name,Location Description,
 "Friedman, Eitan A.",eitan.friedman@ascension.org,Eitan,330041,PHY,Friedman,St Thomas West Hospital,Saint Thomas Health Svcs-TN,EFRIE004,1912101494,Physician,10370378
 "Terry, Ashley",ashley.terry@ascension.org,Ashley,330041,PHY,Terry,TN Bellevue Temple Rd,Saint Thomas Health Svcs-TN,ATERR029,1336589613,Physician,10373904
 "Boyte, Carlee M",carlee.boyte@ascension.org,Carlee,240201,ADM,Boyte,20th Avenue Bldg,Saint Thomas Health Svcs-TN,CBOYTE,,Employee,10375400
-"Marwaha, Simi",simi.marwaha@ascension.org,Simi,330041,PHY,Marwaha,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,SMARW001,1912276890,Physician,10376155
+"Marwaha, Simi",simi.marwaha@ascension.org,Simi,330250,PHY,Marwaha,St Thomas Midtown Hospital,Saint Thomas Health Svcs-TN,SMARW001,1912276890,Employee,10376155
 "Hedges, William",william.hedges@ascension.org,William,200080,PHA,Hedges,St Thomas Midtown Hospital,Saint Thomas Health Svcs-TN,WHEDGES,,Employee,10377729
 "Conway, Ciara",ciara.conway@ascension.org,Ciara,330041,PHY,Conway,St Thomas West Hospital,Saint Thomas Health Svcs-TN,CCONW005,1427445220,Physician,10378315
 "Donati, Terri L",terri.donati@ascension.org,Terri,802301,NUS,Donati,St Thomas West Hospital,Saint Thomas Health Svcs-TN,TDONATI,,Employee,10378578
@@ -442,7 +442,7 @@ Display Name,Email,First Name,Jobcode,Job Family,Last Name,Location Description,
 "Crowder, Jessica",jessica.crowder@ascension.org,Jessica,330041,PHY,Crowder,TN - 2723 New Salem Hwy Murf,Saint Thomas Health Svcs-TN,JCROW020,1942797907,Physician,10493416
 "Faour, Ahmad",ahmad.faour@ascension.org,Ahmad,330041,PHY,Faour,TN - 2723 New Salem Hwy Murf,Saint Thomas Health Svcs-TN,AFAOU001,1922596410,Physician,10493417
 "Dunaway, Peter M",peter.dunaway@ascension.org,Peter,330041,PHY,Dunaway,TN - 2755 New Salem Hwy Murf,Saint Thomas Health Svcs-TN,PDUNAWAY,1811055221,Physician,10493515
-"Eze, Ogonna C",ogonna.eze@ascension.org,Ogonna,330041,PHY,Eze,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,OEZE,1932631421,Physician,10493600
+"Eze, Ogonna C",ogonna.eze@ascension.org,Ogonna,330041,PHY,Eze,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,OEZE,,Physician,10493600
 Display Name,Email,First Name,Jobcode,Job Family,Last Name,Location Description,Ministry,Network (Logon) ID,NPI Number,Type,Username
 "Booth, Julie A",julie.booth@ascension.org,Julie,801540,NUR,Booth,ASV Clay County Hospital,St. Vincent's HealthCare-FL,JBOOT013,,Employee,10493754
 "Ahmed, Adeeb",adeeb.ahmed@ascension.org,Adeeb,330041,PHY,Ahmed,ST Heart - Murfreesboro,Saint Thomas Health Svcs-TN,AAHME074,1245217603,Physician,10494147
@@ -478,17 +478,17 @@ Display Name,Email,First Name,Jobcode,Job Family,Last Name,Location Description,
 "Rodriguez, Robert A",robert.rodriguez1@ascension.org,Robert,330041,PHY,Rodriguez,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,RRODR087,1154775708,Physician,10544153
 "Lattimore, Jamal S",jamal.lattimore@ascension.org,Jamal,330041,PHY,Lattimore,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,JLATT002,1366949786,Physician,10548897
 "Buchanan, Laura H.",laura.buchanan@ascension-external.org,Laura,370780,IS,Buchanan,Westport Ctr Drive,Ascension Technologies,LBUCH018,,Contractor,10555677
+"Mitchell, Brandon",brandon.mitchell@ascension-external.org,Brandon,280220,PHS,Mitchell,ASV Riverside Hospital,St. Vincent's HealthCare-FL,BMITC008,1194092973,Contractor,10558374
 "Capizzi, Stephen A.",stephen.capizzi@ascension.org,Stephen,330040,PHY,Capizzi,St Thomas West Hospital,Saint Thomas Health Svcs-TN,SCAPIZZI,1366446171,Contractor,10571522
 "Mahmoud, Karim",karim.mahmoud@ascension.org,Karim,330041,PHY,Mahmoud,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,KMAHM001,1871908939,Physician,10622026
 "Al Ashab, Aiham",aiham.al_ashab@ascension-external.org,Aiham,,,Al Ashab,Hospitalists Now,,aalasha,,,aalasha
 "Asharaf, Abdul Rasheed",abdul_rasheed.asharaf@ascension-external.org,Abdul Rasheed,,,Asharaf,"Hospital Specialists, P.A.",,aasha001,,,aasharaf
-"Eskind, Aaron A.",aaron.eskind@ascension.org,Aaron,330041,PHY,Eskind,St Thomas West Hospital,Saint Thomas Health Svcs-TN,AESKIND,1619401239,Physician,aeskind
 Display Name,Email,First Name,Jobcode,Job Family,Last Name,Location Description,Ministry,Network (Logon) ID,NPI Number,Type,Username
+"Eskind, Aaron A.",aaron.eskind@ascension.org,Aaron,330041,PHY,Eskind,St Thomas West Hospital,Saint Thomas Health Svcs-TN,AESKIND,1619401239,Physician,aeskind
 "Mitchell, Amye",amye.mitchell@ascension.org,Amye,801080,NUR,Mitchell,St Thomas Midtown Hospital,Saint Thomas Health Svcs-TN,AMITC104,,Employee,amitc104
 "Poudel-Chataut, Anugya",anugya.poudel-chataut@ascension-external.org,Anugya,,,Poudel-Chataut,Hospitalists Now,,apoudelc,,,apoudelc
 "Sarwar, Amber",amber.sarwar@ascension-external.org,Amber,,,Sarwar,"Inpatient Consultants of Florida, INC.",,asarwar,,,asarwar
 "Zimilevich, Alexander",alexander.zimilevich@ascension-external.org,Alexander,,,Zimilevich,,,azimilev,,,azimilev
-bmitc008,,,,,,,,,,,bmitc008
 "Carpenter, Chace T.",chace.carpenter@ascension-external.org,Chace,,,Carpenter,,Saint Thomas Health Svcs-TN,ccarp003,,,ccarp003
 "Kerns, Catherine M.",catherine.kerns@ascension-external.org,Catherine,,,Kerns,SV-Riverside,,ckerns,,,ckerns
 "Myles, Carneisha L.",carneisha.myles@ascension-external.org,Carneisha,,,Myles,Ascension St Vincent Riverside,,cmyle001,,,cmyle001
@@ -498,7 +498,7 @@ bmitc008,,,,,,,,,,,bmitc008
 Display Name,Email,First Name,Jobcode,Job Family,Last Name,Location Description,Ministry,Network (Logon) ID,NPI Number,Type,Username
 "Koduah, Doris A.",doris.koduah@ascension-external.org,Doris,,,Koduah,,,dkoduah,,,dkoduah
 "Koehler, David C.",dkoeh002@ascension-external.org,David,,,Koehler,SV-Riverside,,dkoeh002,,,dkoeh002
-"Barquist, Erik",erik.barquist@ascension-external.org,Erik,,,Barquist,,Saint Thomas Health Svcs-TN,EBarquis,,Non-HR Contractor,EBarquis
+"Barquist, Erik",erik.barquist@ascension-external.org,Erik,,,Barquist,St Thomas Rutherford Hospital,Saint Thomas Health Svcs-TN,EBarquis,,Non-HR Contractor,EBarquis
 "Binyanya, Eunice",eunice.binyanya@ascension-external.org,Eunice,,,Binyanya,Ascension St Vincent Riverside,,ebinyany,,,ebinyany
 "Yazigi, Edward J.",eyazigi@jaxhealth.com,Edward,,,Yazigi,SV-Southside,,eyazigi,,,eyazigi
 "Ghani, Hiba T.",hiba.ghani@ascension-external.org,Hiba,,,Ghani,,,hghani,,,hghani
