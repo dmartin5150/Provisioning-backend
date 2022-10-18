@@ -13,7 +13,7 @@ from psutil import users
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
 
-UPLOADED_COLUMNS = ['Email','Job Family','Ministry','Network (Logon) ID','NPI Number','Type','Username']
+UPLOADED_COLUMNS = ['Email','Job Family','Ministry','Network (Logon) ID','NPI Number','Type','Username','Jobcode']
 PROVISIONING_WORKSHEETS = ['All Users', 'New Users', 'Deprovisioned Users', 'Source File']
 LOCATION_MAPPINGS= {"Saint Thomas Health Svcs-TN":"TNNAS", "St. Vincent's HealthCare-FL":'FLJAC', "Seton Family of Hospitals-TX":'TXAUS'}
 LOCATION_MAPPINGS_ALL =["Ascension Technologies","Borgess Health-MI","Columbia Health System","St. John Health-MI","St. Joseph Health System-MI","Ascension System Office-MO","Sacred Heart Health System-FL", "St. Vincent's Health System-AL"]
@@ -243,13 +243,13 @@ def get_sourcefile_dataframe():
 
 
 def create_new_provisioning_dataframe(uploaded_dataframe):
-    initial_input = uploaded_dataframe[['Username','Email','Type','Network (Logon) ID','Job Family','NPI Number','Ministry']]
+    initial_input = uploaded_dataframe[['Username','Email','Type','Network (Logon) ID','Job Family','NPI Number','Ministry','Jobcode']]
     provisioning_dataframe = initial_input.rename(columns={'Username': 'NTAccountName','Type':'symphonyemployeetype','Network (Logon) ID':'USERNAME','Job Family':'Cerner Role','NPI Number':'NPI'})
     provisioning_dataframe['PeopleSoft Type'] = provisioning_dataframe['symphonyemployeetype']
     # provisioning_dataframe.index = np.arange(1, len(provisioning_dataframe) + 1)
     provisioning_dataframe['Unnamed: 0'] = provisioning_dataframe.index
     provisioning_dataframe[['employeenumber','NTAccountName','CS Role']] = ""
-    return provisioning_dataframe[['Unnamed: 0','NTAccountName','Email','employeenumber','symphonyemployeetype','PeopleSoft Type','USERNAME','Cerner Role','CS Role','NPI','Ministry',]]
+    return provisioning_dataframe[['Unnamed: 0','NTAccountName','Email','employeenumber','symphonyemployeetype','PeopleSoft Type','USERNAME','Cerner Role','CS Role','NPI','Ministry','Jobcode']]
 
 def create_new_provisioning_dataframes(new_dataframe, current_dataframe):
     all_user_dataframe = create_new_provisioning_dataframe(new_dataframe)
